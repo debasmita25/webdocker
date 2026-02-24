@@ -10,6 +10,9 @@
   "zip": "30001",
   "state":"Hawaii",
   "passengersCount": "1",
+  "departFrom":"Frankfurt",
+  "arriveIn":"Paris",
+  "serviceClass":"Business",
   "expectedPrice": "$584 USD"
 },
 {
@@ -22,7 +25,10 @@
   "zip": "30001",
   "state":"Hawaii",
   "passengersCount": "2",
-  "expectedPrice": "$584 USD"
+  "departFrom":"Frankfurt",
+  "arriveIn":"Portland",
+  "serviceClass":"Business",
+  "expectedPrice": "$1169 USD"
 },
 {
   "firstName": "michael",
@@ -34,7 +40,10 @@
   "zip": "30001",
   "state":"Hawaii",
   "passengersCount": "3",
-  "expectedPrice": "$584 USD"
+  "departFrom":"Frankfurt",
+  "arriveIn":"Paris",
+  "serviceClass":"Economy",
+  "expectedPrice": "$1753 USD"
 },
 {
   "firstName": "michael",
@@ -46,7 +55,10 @@
   "zip": "30001",
   "state":"Hawaii",
   "passengersCount": "4",
-  "expectedPrice": "$584 USD"
+  "departFrom":"Frankfurt",
+  "arriveIn":"Paris",
+  "serviceClass":"First",
+  "expectedPrice": "$2338 USD"
 }
 ],
 "invalidUser":

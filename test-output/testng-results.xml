@@ -1,88 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-24T13:25:29 IST" name="Default suite" finished-at="2026-02-24T13:25:48 IST" duration-ms="19289">
+  <suite started-at="2026-02-25T00:01:02 IST" name="Default suite" finished-at="2026-02-25T00:01:10 IST" duration-ms="7604">
     <groups>
     </groups>
-    <test started-at="2026-02-24T13:25:29 IST" name="Default test" finished-at="2026-02-24T13:25:48 IST" duration-ms="19289">
-      <class name="com.debs.tests.bookflights.BookFlightTest">
-        <test-method signature="invalidUser(com.debs.records.bookflights.UserData)[pri:0, instance:com.debs.tests.bookflights.BookFlightTest@70fab835]" started-at="2026-02-24T13:25:29 IST" name="invalidUser" data-provider="jsonData" finished-at="2026-02-24T13:25:33 IST" duration-ms="3741" status="PASS">
+    <test started-at="2026-02-25T00:01:02 IST" name="Default test" finished-at="2026-02-25T00:01:10 IST" duration-ms="7604">
+      <class name="com.debs.tests.vendorapp.VendorAppTest">
+        <test-method signature="vendorData(com.debs.records.vendorapp.VendorPortalTestData)[pri:0, instance:com.debs.tests.vendorapp.VendorAppTest@22c86919]" started-at="2026-02-25T00:01:03 IST" name="vendorData" data-provider="jsonData" finished-at="2026-02-25T00:01:03 IST" duration-ms="35" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[UserData[firstName=michael, lastName=jackson, email=mj@pop.com, password=mj, street=123 main street, city=atlanta, zip=30001, state=Hawaii, passengersCount=-1, expectedPrice=$584 USD]]]>
+                <![CDATA[VendorPortalTestData[username=john, password=john, monthlyEarning=$3,453, annualEarning=$34,485, profitMargin=-16%, availableInventory=67, searchKeyword=2024/01/01, searchResultsCount=0]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- invalidUser -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.debs.tests.bookflights.BookFlightTest@70fab835]" started-at="2026-02-24T13:25:33 IST" name="tearDown" finished-at="2026-02-24T13:25:33 IST" duration-ms="219" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method signature="validUser(com.debs.records.bookflights.UserData)[pri:0, instance:com.debs.tests.bookflights.BookFlightTest@70fab835]" started-at="2026-02-24T13:25:33 IST" name="validUser" data-provider="jsonData" finished-at="2026-02-24T13:25:37 IST" duration-ms="4255" status="PASS">
+        </test-method> <!-- vendorData -->
+        <test-method signature="vendorData(com.debs.records.vendorapp.VendorPortalTestData)[pri:0, instance:com.debs.tests.vendorapp.VendorAppTest@22c86919]" started-at="2026-02-25T00:01:03 IST" name="vendorData" data-provider="jsonData" finished-at="2026-02-25T00:01:03 IST" duration-ms="29" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[UserData[firstName=michael, lastName=jackson, email=mj@pop.com, password=mj, street=123 main street, city=atlanta, zip=30001, state=Hawaii, passengersCount=1, expectedPrice=$584 USD]]]>
+                <![CDATA[VendorPortalTestData[username=sam, password=sam, monthlyEarning=$40,000, annualEarning=$215,000, profitMargin=50%, availableInventory=18, searchKeyword=adams, searchResultsCount=8]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validUser -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.debs.tests.bookflights.BookFlightTest@70fab835]" started-at="2026-02-24T13:25:37 IST" name="tearDown" finished-at="2026-02-24T13:25:38 IST" duration-ms="187" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method signature="validUser(com.debs.records.bookflights.UserData)[pri:0, instance:com.debs.tests.bookflights.BookFlightTest@70fab835]" started-at="2026-02-24T13:25:38 IST" name="validUser" data-provider="jsonData" finished-at="2026-02-24T13:25:40 IST" duration-ms="2753" status="PASS">
+        </test-method> <!-- vendorData -->
+        <test-method signature="vendorData(com.debs.records.vendorapp.VendorPortalTestData)[pri:0, instance:com.debs.tests.vendorapp.VendorAppTest@22c86919]" started-at="2026-02-25T00:01:03 IST" name="vendorData" data-provider="jsonData" finished-at="2026-02-25T00:01:03 IST" duration-ms="30" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[UserData[firstName=michael, lastName=jackson, email=mj@pop.com, password=mj, street=123 main street, city=atlanta, zip=30001, state=Hawaii, passengersCount=2, expectedPrice=$584 USD]]]>
+                <![CDATA[VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, profitMargin=80%, availableInventory=45, searchKeyword=miami, searchResultsCount=10]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validUser -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.debs.tests.bookflights.BookFlightTest@70fab835]" started-at="2026-02-24T13:25:40 IST" name="tearDown" finished-at="2026-02-24T13:25:41 IST" duration-ms="180" status="PASS">
+        </test-method> <!-- vendorData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.debs.tests.vendorapp.VendorAppTest@22c86919]" started-at="2026-02-25T00:01:03 IST" name="tearDown" finished-at="2026-02-25T00:01:10 IST" duration-ms="7173" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method signature="validUser(com.debs.records.bookflights.UserData)[pri:0, instance:com.debs.tests.bookflights.BookFlightTest@70fab835]" started-at="2026-02-24T13:25:41 IST" name="validUser" data-provider="jsonData" finished-at="2026-02-24T13:25:45 IST" duration-ms="4451" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[UserData[firstName=michael, lastName=jackson, email=mj@pop.com, password=mj, street=123 main street, city=atlanta, zip=30001, state=Hawaii, passengersCount=3, expectedPrice=$584 USD]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validUser -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.debs.tests.bookflights.BookFlightTest@70fab835]" started-at="2026-02-24T13:25:45 IST" name="tearDown" finished-at="2026-02-24T13:25:45 IST" duration-ms="179" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.debs.tests.vendorapp.VendorAppTest@22c86919]" started-at="2026-02-25T00:01:03 IST" name="tearDown" finished-at="2026-02-25T00:01:10 IST" duration-ms="7236" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method signature="validUser(com.debs.records.bookflights.UserData)[pri:0, instance:com.debs.tests.bookflights.BookFlightTest@70fab835]" started-at="2026-02-24T13:25:45 IST" name="validUser" data-provider="jsonData" finished-at="2026-02-24T13:25:48 IST" duration-ms="2806" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[UserData[firstName=michael, lastName=jackson, email=mj@pop.com, password=mj, street=123 main street, city=atlanta, zip=30001, state=Hawaii, passengersCount=4, expectedPrice=$584 USD]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validUser -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.debs.tests.bookflights.BookFlightTest@70fab835]" started-at="2026-02-24T13:25:48 IST" name="tearDown" finished-at="2026-02-24T13:25:48 IST" duration-ms="212" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.debs.tests.vendorapp.VendorAppTest@22c86919]" started-at="2026-02-25T00:01:03 IST" name="tearDown" finished-at="2026-02-25T00:01:10 IST" duration-ms="7177" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.debs.tests.bookflights.BookFlightTest -->
+      </class> <!-- com.debs.tests.vendorapp.VendorAppTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

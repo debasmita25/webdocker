@@ -5,7 +5,8 @@
     <classes>
       <class name="com.debs.tests.bookflights.BookFlightTest">
         <methods>
-          <include name="validUser"/>
+          <include name="validUser" invocation-numbers="0 1 2 3"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- com.debs.tests.bookflights.BookFlightTest -->
     </classes>

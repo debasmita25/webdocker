@@ -23,6 +23,7 @@ public abstract class BasePage {
 		this.driver = DriverFactory.getDriver();
 		this.wait = new WebDriverWait(driver,
 				Duration.ofSeconds(Long.parseLong(ConfigReader.getProperty("explicit.wait"))));
+		driver.manage().window().maximize();
 		driver.manage().timeouts()
 				.implicitlyWait(Duration.ofSeconds(Long.parseLong(ConfigReader.getProperty("implicit.wait"))));
 		PageFactory.initElements(driver, this);
@@ -36,6 +37,13 @@ public abstract class BasePage {
 		logger.info("Clicked on element : {} ", element);
 	}
 
+	protected String executeJavascript(String script)
+	{
+		js=(JavascriptExecutor)driver;
+		return (String)js.executeScript(script);
+	}
+	
+	
 	protected void clickJS(WebElement element) {
 		js = (JavascriptExecutor) driver;
 		js.executeScript("arguments[0].click();", element);
@@ -79,6 +87,14 @@ public abstract class BasePage {
 		wait.until(ExpectedConditions.elementToBeClickable(element));
 		Select select=new Select(element);
 		select.selectByValue(value);
+		logger.info("Option {} is selected ",value);
+	}
+	
+	protected void selectOptionVisibleText(WebElement element,String value)
+	{
+		wait.until(ExpectedConditions.elementToBeClickable(element));
+		Select select=new Select(element);
+		select.selectByVisibleText(value);
 		logger.info("Option {} is selected ",value);
 	}
 	

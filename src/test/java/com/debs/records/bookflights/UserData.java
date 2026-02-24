@@ -10,6 +10,9 @@ public record UserData(
         String zip,
         String state,
         String passengersCount,
+        String departFrom,
+        String arriveIn,
+        String serviceClass,
         String expectedPrice
 ) {}
 

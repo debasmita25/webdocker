@@ -13,7 +13,7 @@ public class DataProviders {
 
 	
 
-	@DataProvider(name = "jsonData")
+	@DataProvider(name = "jsonData",parallel = true)
 	public static Object[][] provide(Method method) {
 
 		String key = method.getName(); // validUser / invalidUser

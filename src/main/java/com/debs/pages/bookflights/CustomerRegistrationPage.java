@@ -6,9 +6,9 @@ import org.openqa.selenium.support.FindBy;
 import com.debs.utils.BasePage;
 import com.debs.utils.ConfigReader;
 
-public class CustomerRegistration extends BasePage {
+public class CustomerRegistrationPage extends BasePage {
 	
-	public CustomerRegistration()
+	public CustomerRegistrationPage()
 	{
 		super();
 	}
@@ -74,8 +74,9 @@ public class CustomerRegistration extends BasePage {
 		selectOption(stateSelect, state);
 	}
 	
-    public void register()
+    public RegistrationConfirmationPage register()
     {
     	click(registerButton);
+    	return new RegistrationConfirmationPage();
     }
 }

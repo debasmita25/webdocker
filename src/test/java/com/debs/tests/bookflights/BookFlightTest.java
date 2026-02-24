@@ -2,11 +2,15 @@ package com.debs.tests.bookflights;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.testng.annotations.AfterMethod;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.debs.dataproviders.DataProviders;
-import com.debs.pages.bookflights.CustomerRegistration;
+import com.debs.pages.bookflights.CustomerRegistrationPage;
+import com.debs.pages.bookflights.FlightSearchPage;
+import com.debs.pages.bookflights.FlightsConfirmationPage;
+import com.debs.pages.bookflights.RegistrationConfirmationPage;
+import com.debs.pages.bookflights.SelectFlightsPage;
 import com.debs.records.bookflights.UserData;
 
 public class BookFlightTest extends BaseTest {
@@ -16,25 +20,48 @@ public class BookFlightTest extends BaseTest {
 	@Test(dataProvider = "jsonData", dataProviderClass = DataProviders.class)
 	public void validUser(UserData data) {
 		// System.out.println("Passengers: " + data.passengersCount());
-		CustomerRegistration custRegister = new CustomerRegistration();
+		CustomerRegistrationPage custRegister = new CustomerRegistrationPage();
 		custRegister.goTo();
+		Assert.assertTrue(custRegister.verifyElement());
+		logger.info("Launched the Registration URL Successfully");
 		custRegister.enterUserFirstLastName(data.firstName(), data.lastName());
 		custRegister.enterUserCredentials(data.email(), data.password());
 		custRegister.enterUserAddress(data.street(), data.city(), data.zip(),data.state());
-		custRegister.register();
+		
+		RegistrationConfirmationPage registerConfirm= custRegister.register();
+		Assert.assertTrue(registerConfirm.verifyElement());
+		logger.info(registerConfirm.getConfirmationMsg());
+		
+		FlightSearchPage flightSearch= registerConfirm.goToFlightSearchPage();
+		Assert.assertTrue(flightSearch.verifyElement());
+		logger.info("Navigated to Flight Search Page");
+		flightSearch.selectPassengers(data.passengersCount());
+		flightSearch.selectDepartingFrom(data.departFrom());
+		flightSearch.selectArriveIn(data.arriveIn());
+		flightSearch.selectServiceClass(data.serviceClass());
+		
+		SelectFlightsPage selectFlight=flightSearch.clickFlightSelect();
+		Assert.assertTrue(selectFlight.verifyElement());
+		logger.info("Navigated to Select Flights page successfully");
+		selectFlight.selectFlights();
+		FlightsConfirmationPage flightsConfirm= selectFlight.confirmFlights();
+		Assert.assertTrue(flightsConfirm.verifyElement());
+		logger.info("Total Price : {} ",flightsConfirm.getPrice());
+		Assert.assertEquals(flightsConfirm.getPrice(),data.expectedPrice());
+		
+		
+		
 	}
 
 	@Test(dataProvider = "jsonData", dataProviderClass = DataProviders.class)
 	public void invalidUser(UserData data) {
 		// System.out.println("Passengers: " + data.passengersCount());
-		CustomerRegistration custRegister = new CustomerRegistration();
+		CustomerRegistrationPage custRegister = new CustomerRegistrationPage();
 		custRegister.goTo();
 		custRegister.enterUserFirstLastName(data.firstName(), data.lastName());
 		custRegister.enterUserCredentials(data.email(), data.password());
-		custRegister.enterUserAddress(data.street(), data.city(), data.zip(),data.state());
+		custRegister.enterUserAddress(data.street(), data.city(), data.zip(), data.state());
 		custRegister.register();
 	}
-	
-	
 
 }

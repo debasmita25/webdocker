@@ -1,0 +1,1611 @@
+2026-02-24 13:11:18.495 [main] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 13:11:28.966 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:11:29.927 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:11:30.034 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:11:30.125 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:11:30.197 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:11:30.288 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:11:30.371 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:11:30.453 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:11:30.574 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (27ca734f141e0cc56af66627f7aa1f33)] -> id: register-btn] 
+2026-02-24 13:11:30.749 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:11:30.828 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:11:30.910 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:11:30.976 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:11:31.064 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:11:31.150 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:11:31.224 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:11:31.318 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (27ca734f141e0cc56af66627f7aa1f33)] -> id: register-btn] 
+2026-02-24 13:11:31.497 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:11:31.577 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:11:31.657 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:11:31.721 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:11:31.810 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:11:31.884 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:11:31.959 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:11:32.050 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (27ca734f141e0cc56af66627f7aa1f33)] -> id: register-btn] 
+2026-02-24 13:11:32.211 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:11:32.303 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:11:32.384 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:11:32.447 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:11:32.533 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:11:32.610 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:11:32.682 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:11:32.772 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (27ca734f141e0cc56af66627f7aa1f33)] -> id: register-btn] 
+2026-02-24 13:11:32.929 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:11:33.007 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:11:33.084 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:11:33.150 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:11:33.242 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:11:33.322 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:11:33.397 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:11:33.490 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (27ca734f141e0cc56af66627f7aa1f33)] -> id: register-btn] 
+2026-02-24 13:14:46.115 [main] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 13:14:48.179 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:14:49.411 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:14:49.504 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:14:49.595 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:14:49.671 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:14:49.767 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:14:49.863 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:14:49.961 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:14:50.080 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (3218450d05e2ce3dcf90c2999efb609e)] -> id: register-btn] 
+2026-02-24 13:14:50.282 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:14:51.610 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:14:53.557 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:14:53.649 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:14:53.748 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:14:53.816 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:14:53.905 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:14:53.984 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:14:54.066 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:14:54.175 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (4afb8d735668cb7651bb66c00f637e6b)] -> id: register-btn] 
+2026-02-24 13:14:54.367 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:14:55.676 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:14:56.439 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:14:56.546 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:14:56.648 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:14:56.729 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:14:56.833 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:14:56.929 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:14:57.021 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:14:57.154 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (35082b89bbd8edaab74c4e8a25929be1)] -> id: register-btn] 
+2026-02-24 13:14:57.355 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:14:58.853 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:15:00.702 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:15:00.809 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:15:00.912 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:15:00.993 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:15:01.097 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:15:01.191 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:15:01.283 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:15:01.420 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (026fa6849bc0b759dd607016431f8fdb)] -> id: register-btn] 
+2026-02-24 13:15:01.626 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:15:02.917 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:15:03.707 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:15:03.806 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:15:03.913 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:15:04.005 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:15:04.096 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:15:04.175 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:15:04.250 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:15:04.365 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (41d3d49882064109a3c073a82c5044ba)] -> id: register-btn] 
+2026-02-24 13:15:04.549 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:17:10.938 [main] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 13:17:12.805 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:17:13.667 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:17:13.761 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:17:13.876 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:17:13.950 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:17:14.044 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:17:14.137 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:17:14.220 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:17:14.337 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (bb2edd5e18622fe0d099b0ccf1b0077c)] -> id: register-btn] 
+2026-02-24 13:17:14.562 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:17:15.861 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:17:18.099 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:17:18.197 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:17:18.291 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:17:18.361 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:17:18.457 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:17:18.538 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:17:18.615 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:17:18.738 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (35a49f93e3f71057523b6ab160831a93)] -> id: register-btn] 
+2026-02-24 13:17:18.927 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:17:20.166 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:17:21.069 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:17:21.168 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:17:21.257 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:17:21.326 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:17:21.420 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:17:21.497 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:17:21.576 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:17:21.684 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (f8b886a5aba324aa8dfc0ee35fb0a6c9)] -> id: register-btn] 
+2026-02-24 13:17:21.893 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:17:23.160 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:17:25.230 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:17:25.331 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:17:25.426 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:17:25.499 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:17:25.589 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:17:25.667 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:17:25.743 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:17:25.854 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e94d4e6d90ae1d7c14afa496b1457d89)] -> id: register-btn] 
+2026-02-24 13:17:26.056 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:17:27.237 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:17:28.004 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:17:28.089 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:17:28.186 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:17:28.255 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:17:28.340 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:17:28.418 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:17:28.490 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:17:28.599 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e37903f63f12cf70e63623348f6e93ff)] -> id: register-btn] 
+2026-02-24 13:17:28.782 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:25:29.709 [main] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 13:25:31.827 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:25:32.657 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:25:32.746 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:25:32.840 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:25:32.910 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:25:33.009 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:25:33.090 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:25:33.166 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:25:33.316 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 13:25:33.414 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (32fa7ac8da96f56598551a8367156409)] -> id: register-btn] 
+2026-02-24 13:25:33.637 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:25:34.829 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:25:37.136 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:25:37.236 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:25:37.324 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:25:37.397 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:25:37.488 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:25:37.569 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:25:37.656 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:25:37.798 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 13:25:37.899 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (59e589b28a48a0a81b12a69fc5f653dc)] -> id: register-btn] 
+2026-02-24 13:25:38.089 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:25:39.269 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:25:40.092 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:25:40.191 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:25:40.287 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:25:40.356 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:25:40.448 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:25:40.527 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:25:40.603 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:25:40.741 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 13:25:40.843 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (5e1fa0a089a6697b3113ca8f42a89af3)] -> id: register-btn] 
+2026-02-24 13:25:41.026 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:25:42.236 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:25:44.738 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:25:44.829 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:25:44.922 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:25:44.991 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:25:45.081 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:25:45.161 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:25:45.236 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:25:45.379 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 13:25:45.479 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (f3a94d48dd7c6b8cdffb28786cd31e77)] -> id: register-btn] 
+2026-02-24 13:25:45.659 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 13:25:46.801 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 13:25:47.719 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 13:25:47.811 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 13:25:47.905 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:25:47.975 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 13:25:48.061 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 13:25:48.142 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 13:25:48.221 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 13:25:48.362 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 13:25:48.466 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (44faaf4b8b3ac2794d751d165cf43e0b)] -> id: register-btn] 
+2026-02-24 13:25:48.681 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 16:31:49.295 [main] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 16:31:52.350 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 16:31:54.486 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 16:31:54.582 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 16:31:54.683 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 16:31:54.757 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 16:31:54.863 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 16:31:54.950 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 16:31:55.049 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 16:31:55.211 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 16:31:55.323 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (73b5e6c3b513d7b9ac3e3bfcb9e261b5)] -> id: register-btn] 
+2026-02-24 16:31:55.539 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 16:31:56.854 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 16:31:57.631 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 16:31:57.653 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 16:31:57.678 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 16:31:57.772 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 16:31:57.870 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 16:31:57.955 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 16:31:58.029 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 16:31:58.119 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 16:31:58.197 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 16:31:58.272 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 16:31:58.418 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 16:31:58.531 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (56e903011607c23c5c83143766edafdb)] -> id: register-btn] 
+2026-02-24 16:31:59.708 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 16:31:59.726 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 16:31:59.783 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 16:31:59.783 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 16:31:59.963 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (56e903011607c23c5c83143766edafdb)] -> id: go-to-flights-search] 
+2026-02-24 16:32:01.695 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 16:32:01.714 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 16:32:01.732 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 16:32:01.849 [main] INFO  com.debs.utils.BasePage - Option 1 is selected 
+2026-02-24 16:32:13.113 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 16:32:14.284 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 16:32:16.247 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 16:32:16.269 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 16:32:16.288 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 16:32:16.405 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 16:32:16.512 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 16:32:16.601 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 16:32:16.686 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 16:32:16.796 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 16:32:16.889 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 16:32:16.990 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 16:32:17.158 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 16:32:17.288 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (d6091c6454ecc17a109369142a81197c)] -> id: register-btn] 
+2026-02-24 16:32:17.894 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 16:32:17.912 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 16:32:17.974 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 16:32:17.974 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 16:32:18.136 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (d6091c6454ecc17a109369142a81197c)] -> id: go-to-flights-search] 
+2026-02-24 16:32:19.293 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 16:32:19.312 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 16:32:19.330 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 16:32:19.491 [main] INFO  com.debs.utils.BasePage - Option 2 is selected 
+2026-02-24 16:32:30.480 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 16:32:31.711 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 16:32:32.446 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 16:32:32.464 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 16:32:32.482 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 16:32:32.592 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 16:32:32.702 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 16:32:32.797 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 16:32:32.882 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 16:32:32.980 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 16:32:33.056 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 16:32:33.131 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 16:32:33.265 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 16:32:33.364 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (788d559454eaa229bfae083bfae459f4)] -> id: register-btn] 
+2026-02-24 16:32:33.959 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 16:32:33.974 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 16:32:34.035 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 16:32:34.035 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 16:32:34.206 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (788d559454eaa229bfae083bfae459f4)] -> id: go-to-flights-search] 
+2026-02-24 16:32:35.934 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 16:32:35.968 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 16:32:35.988 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 16:32:36.158 [main] INFO  com.debs.utils.BasePage - Option 3 is selected 
+2026-02-24 16:32:47.093 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 16:32:48.493 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 16:32:50.589 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 16:32:50.607 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 16:32:50.625 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 16:32:50.739 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 16:32:50.832 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 16:32:50.920 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 16:32:50.996 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 16:32:51.097 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 16:32:51.180 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 16:32:51.275 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 16:32:51.441 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 16:32:51.549 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (874da3a8352f5a2c8fd68e6b5a3cef85)] -> id: register-btn] 
+2026-02-24 16:32:52.643 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 16:32:52.661 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 16:32:52.720 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 16:32:52.721 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 16:32:52.886 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (874da3a8352f5a2c8fd68e6b5a3cef85)] -> id: go-to-flights-search] 
+2026-02-24 16:32:53.990 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 16:32:54.005 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 16:32:54.022 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 16:32:54.145 [main] INFO  com.debs.utils.BasePage - Option 4 is selected 
+2026-02-24 16:33:04.919 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 17:20:18.521 [main] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 17:20:20.510 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 17:20:21.377 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 17:20:21.483 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 17:20:21.601 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:20:21.682 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:20:21.786 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 17:20:21.885 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 17:20:21.977 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 17:20:22.149 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 17:20:22.251 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (02a0ace592da49206ef8a50a96b1bce5)] -> id: register-btn] 
+2026-02-24 17:20:22.557 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 17:20:23.829 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 17:20:26.060 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:20:26.078 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:20:26.101 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 17:20:26.204 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 17:20:26.297 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 17:20:26.379 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:20:26.448 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:20:26.540 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 17:20:26.619 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 17:20:26.707 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 17:20:26.841 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 17:20:26.939 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c2d7d38af6feca98451c3fb69e3ae8c6)] -> id: register-btn] 
+2026-02-24 17:20:28.097 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:20:28.118 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:20:28.184 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 17:20:28.184 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 17:20:28.346 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c2d7d38af6feca98451c3fb69e3ae8c6)] -> id: go-to-flights-search] 
+2026-02-24 17:20:28.994 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:20:29.017 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:20:29.037 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 17:20:29.159 [main] INFO  com.debs.utils.BasePage - Option 1 is selected 
+2026-02-24 17:20:29.317 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 17:20:29.473 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 17:20:29.678 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c2d7d38af6feca98451c3fb69e3ae8c6)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 17:20:31.047 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 17:20:32.336 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 17:20:33.172 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:20:33.189 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:20:33.205 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 17:20:33.310 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 17:20:33.405 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 17:20:33.488 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:20:33.556 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:20:33.651 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 17:20:33.732 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 17:20:33.806 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 17:20:33.954 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 17:20:34.059 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (d1d744d7524cef9591dd3bd36067b1ee)] -> id: register-btn] 
+2026-02-24 17:20:34.670 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:20:34.687 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:20:34.752 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 17:20:34.752 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 17:20:34.922 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (d1d744d7524cef9591dd3bd36067b1ee)] -> id: go-to-flights-search] 
+2026-02-24 17:20:36.647 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:20:36.666 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:20:36.689 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 17:20:36.837 [main] INFO  com.debs.utils.BasePage - Option 2 is selected 
+2026-02-24 17:20:36.963 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 17:20:37.081 [main] INFO  com.debs.utils.BasePage - Option Portland is selected 
+2026-02-24 17:20:37.244 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (d1d744d7524cef9591dd3bd36067b1ee)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 17:20:38.609 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 17:20:39.816 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 17:20:41.818 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:20:41.840 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:20:41.858 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 17:20:41.964 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 17:20:42.058 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 17:20:42.140 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:20:42.207 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:20:42.311 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 17:20:42.404 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 17:20:42.506 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 17:20:42.641 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 17:20:42.733 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (2fe14b6faf50803460519006a35ae03f)] -> id: register-btn] 
+2026-02-24 17:20:43.362 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:20:43.378 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:20:43.436 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 17:20:43.436 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 17:20:43.591 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (2fe14b6faf50803460519006a35ae03f)] -> id: go-to-flights-search] 
+2026-02-24 17:20:45.310 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:20:45.328 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:20:45.343 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 17:20:45.471 [main] INFO  com.debs.utils.BasePage - Option 3 is selected 
+2026-02-24 17:20:45.589 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 17:20:45.702 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 17:20:45.822 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (2fe14b6faf50803460519006a35ae03f)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 17:20:47.163 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 17:20:48.338 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 17:20:49.213 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:20:49.233 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:20:49.250 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 17:20:49.370 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 17:20:49.458 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 17:20:49.538 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:20:49.603 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:20:49.685 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 17:20:49.763 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 17:20:49.834 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 17:20:49.963 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 17:20:50.058 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (ac850ae73faf5a2b034913c8dc24a8f8)] -> id: register-btn] 
+2026-02-24 17:20:50.662 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:20:50.678 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:20:50.730 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 17:20:50.730 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 17:20:50.893 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (ac850ae73faf5a2b034913c8dc24a8f8)] -> id: go-to-flights-search] 
+2026-02-24 17:20:52.085 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:20:52.101 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:20:52.115 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 17:20:52.225 [main] INFO  com.debs.utils.BasePage - Option 4 is selected 
+2026-02-24 17:20:52.342 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 17:20:52.502 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 17:20:53.999 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 17:27:40.607 [main] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 17:27:42.369 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 17:27:43.295 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 17:27:43.379 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 17:27:43.476 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:27:43.546 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:27:43.642 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 17:27:43.723 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 17:27:43.804 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 17:27:43.976 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 17:27:44.098 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (2bf2212c6c8a8b41a5dc237f15d9d16e)] -> id: register-btn] 
+2026-02-24 17:27:44.311 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 17:27:45.544 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 17:27:47.831 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:27:47.851 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:27:47.873 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 17:27:47.986 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 17:27:48.081 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 17:27:48.176 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:27:48.263 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:27:48.368 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 17:27:48.458 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 17:27:48.553 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 17:27:48.719 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 17:27:48.828 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (2c6bc3daab7493cf76f702d6386b5d57)] -> id: register-btn] 
+2026-02-24 17:27:49.403 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:27:49.420 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:27:49.480 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 17:27:49.480 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 17:27:49.645 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (2c6bc3daab7493cf76f702d6386b5d57)] -> id: go-to-flights-search] 
+2026-02-24 17:27:51.340 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:27:51.357 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:27:51.376 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 17:27:51.490 [main] INFO  com.debs.utils.BasePage - Option 1 is selected 
+2026-02-24 17:27:51.619 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 17:27:51.763 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 17:27:51.960 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (2c6bc3daab7493cf76f702d6386b5d57)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 17:27:52.008 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (2c6bc3daab7493cf76f702d6386b5d57)] -> id: search-flights] 
+2026-02-24 17:27:53.222 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 17:27:54.420 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 17:27:55.234 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:27:55.253 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:27:55.268 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 17:27:55.369 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 17:27:55.467 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 17:27:55.553 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:27:55.617 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:27:55.709 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 17:27:55.794 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 17:27:55.872 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 17:27:56.019 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 17:27:56.122 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (703541ef30285ed0837d8797ec8b9ed3)] -> id: register-btn] 
+2026-02-24 17:27:56.749 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:27:56.764 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:27:56.814 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 17:27:56.815 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 17:27:56.970 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (703541ef30285ed0837d8797ec8b9ed3)] -> id: go-to-flights-search] 
+2026-02-24 17:27:58.161 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:27:58.179 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:27:58.202 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 17:27:58.317 [main] INFO  com.debs.utils.BasePage - Option 2 is selected 
+2026-02-24 17:27:58.449 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 17:27:58.613 [main] INFO  com.debs.utils.BasePage - Option Portland is selected 
+2026-02-24 17:27:58.844 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (703541ef30285ed0837d8797ec8b9ed3)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 17:27:58.890 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (703541ef30285ed0837d8797ec8b9ed3)] -> id: search-flights] 
+2026-02-24 17:28:00.124 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 17:28:01.346 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 17:28:03.586 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:28:03.603 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:28:03.621 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 17:28:03.714 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 17:28:03.826 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 17:28:03.936 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:28:04.009 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:28:04.096 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 17:28:04.176 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 17:28:04.249 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 17:28:04.393 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 17:28:04.491 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (fcd651c803d31ea6d3be65e7d52fbfa4)] -> id: register-btn] 
+2026-02-24 17:28:06.771 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:28:06.788 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:28:06.838 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 17:28:06.838 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 17:28:07.007 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (fcd651c803d31ea6d3be65e7d52fbfa4)] -> id: go-to-flights-search] 
+2026-02-24 17:28:07.650 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:28:07.668 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:28:07.690 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 17:28:07.798 [main] INFO  com.debs.utils.BasePage - Option 3 is selected 
+2026-02-24 17:28:07.915 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 17:28:08.029 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 17:28:08.155 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (fcd651c803d31ea6d3be65e7d52fbfa4)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 17:28:08.236 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (fcd651c803d31ea6d3be65e7d52fbfa4)] -> id: search-flights] 
+2026-02-24 17:28:09.466 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 17:28:10.666 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 17:28:11.911 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:28:11.932 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:28:11.950 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 17:28:12.055 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 17:28:12.138 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 17:28:12.225 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:28:12.291 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 17:28:12.381 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 17:28:12.458 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 17:28:12.532 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 17:28:12.665 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 17:28:12.759 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (df2af77276fbc20b200281d416a46f7a)] -> id: register-btn] 
+2026-02-24 17:28:13.922 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:28:13.936 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:28:13.984 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 17:28:13.984 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 17:28:14.134 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (df2af77276fbc20b200281d416a46f7a)] -> id: go-to-flights-search] 
+2026-02-24 17:28:15.327 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 17:28:15.345 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 17:28:15.363 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 17:28:15.477 [main] INFO  com.debs.utils.BasePage - Option 4 is selected 
+2026-02-24 17:28:15.598 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 17:28:15.713 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 17:28:15.828 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (df2af77276fbc20b200281d416a46f7a)] -> id: search-flights] 
+2026-02-24 17:28:17.064 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:08:26.063 [main] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 21:08:29.070 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:08:31.381 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:08:31.488 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:08:31.596 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:08:31.686 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:08:31.795 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:08:31.894 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:08:31.989 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:08:32.165 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:08:32.293 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (4228ed20666e48ab9245188a73f14942)] -> id: register-btn] 
+2026-02-24 21:08:32.552 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:08:34.150 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:08:34.987 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:08:35.013 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:08:35.040 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:08:35.170 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:08:35.286 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:08:35.388 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:08:35.458 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:08:35.563 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:08:35.663 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:08:35.758 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:08:35.915 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:08:36.042 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (13fad769feecc117ddb9f3d2a1f9369f)] -> id: register-btn] 
+2026-02-24 21:08:37.275 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:08:37.320 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:08:37.417 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:08:37.417 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:08:37.619 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (13fad769feecc117ddb9f3d2a1f9369f)] -> id: go-to-flights-search] 
+2026-02-24 21:08:38.773 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:08:38.795 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:08:38.816 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:08:38.948 [main] INFO  com.debs.utils.BasePage - Option 1 is selected 
+2026-02-24 21:08:39.087 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:08:39.256 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:08:39.487 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (13fad769feecc117ddb9f3d2a1f9369f)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:08:39.534 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (13fad769feecc117ddb9f3d2a1f9369f)] -> id: search-flights] 
+2026-02-24 21:08:40.646 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:08:40.666 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:08:40.685 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:08:40.799 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (13fad769feecc117ddb9f3d2a1f9369f)] -> name: departure-flight] 
+2026-02-24 21:08:40.901 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (13fad769feecc117ddb9f3d2a1f9369f)] -> name: arrival-flight] 
+2026-02-24 21:08:41.019 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (13fad769feecc117ddb9f3d2a1f9369f)] -> id: confirm-flights] 
+2026-02-24 21:09:01.741 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:09:03.484 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:09:07.221 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:09:07.244 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:09:07.262 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:09:07.396 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:09:07.514 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:09:07.610 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:09:07.693 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:09:07.819 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:09:07.952 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:09:08.078 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:09:08.269 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:09:08.390 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (bedcc88f3bcd08a78d62c2a369bdcc1f)] -> id: register-btn] 
+2026-02-24 21:09:10.718 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:09:10.751 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:09:10.823 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:09:10.823 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:09:11.045 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (bedcc88f3bcd08a78d62c2a369bdcc1f)] -> id: go-to-flights-search] 
+2026-02-24 21:09:12.738 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:09:12.758 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:09:12.778 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:09:12.908 [main] INFO  com.debs.utils.BasePage - Option 2 is selected 
+2026-02-24 21:09:13.049 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:09:13.197 [main] INFO  com.debs.utils.BasePage - Option Portland is selected 
+2026-02-24 21:09:13.414 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (bedcc88f3bcd08a78d62c2a369bdcc1f)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:09:13.455 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (bedcc88f3bcd08a78d62c2a369bdcc1f)] -> id: search-flights] 
+2026-02-24 21:09:14.097 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:09:14.117 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:09:14.136 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:09:14.238 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (bedcc88f3bcd08a78d62c2a369bdcc1f)] -> name: departure-flight] 
+2026-02-24 21:09:14.332 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (bedcc88f3bcd08a78d62c2a369bdcc1f)] -> name: arrival-flight] 
+2026-02-24 21:09:14.440 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (bedcc88f3bcd08a78d62c2a369bdcc1f)] -> id: confirm-flights] 
+2026-02-24 21:09:34.997 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:09:36.532 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:09:39.003 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:09:39.016 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:09:39.041 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:09:39.151 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:09:39.255 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:09:39.384 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:09:39.457 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:09:39.582 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:09:39.704 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:09:39.832 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:09:40.038 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:09:40.199 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c966fc4ec5443f071e4ddd7edbeec47c)] -> id: register-btn] 
+2026-02-24 21:09:41.862 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:09:41.880 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:09:41.940 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:09:41.940 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:09:42.135 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c966fc4ec5443f071e4ddd7edbeec47c)] -> id: go-to-flights-search] 
+2026-02-24 21:09:43.775 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:09:43.792 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:09:43.809 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:09:43.945 [main] INFO  com.debs.utils.BasePage - Option 3 is selected 
+2026-02-24 21:09:44.093 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:09:44.257 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:09:44.416 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c966fc4ec5443f071e4ddd7edbeec47c)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:09:44.511 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (c966fc4ec5443f071e4ddd7edbeec47c)] -> id: search-flights] 
+2026-02-24 21:09:45.148 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:09:45.171 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:09:45.197 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:09:45.365 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c966fc4ec5443f071e4ddd7edbeec47c)] -> name: departure-flight] 
+2026-02-24 21:09:45.491 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c966fc4ec5443f071e4ddd7edbeec47c)] -> name: arrival-flight] 
+2026-02-24 21:09:45.653 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c966fc4ec5443f071e4ddd7edbeec47c)] -> id: confirm-flights] 
+2026-02-24 21:10:08.650 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:10:10.199 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:10:12.213 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:10:12.241 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:10:12.264 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:10:12.401 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:10:12.496 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:10:12.602 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:10:12.680 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:10:12.789 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:10:12.897 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:10:12.979 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:10:13.126 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:10:13.240 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (1d9a572cf94ec815c7e4da21a32e632d)] -> id: register-btn] 
+2026-02-24 21:10:15.429 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:10:15.446 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:10:15.500 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:10:15.500 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:10:15.735 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (1d9a572cf94ec815c7e4da21a32e632d)] -> id: go-to-flights-search] 
+2026-02-24 21:10:17.521 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:10:17.550 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:10:17.579 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:10:17.789 [main] INFO  com.debs.utils.BasePage - Option 4 is selected 
+2026-02-24 21:10:17.963 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:10:18.139 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:10:18.315 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (1d9a572cf94ec815c7e4da21a32e632d)] -> id: search-flights] 
+2026-02-24 21:10:19.522 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:10:19.576 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:10:19.623 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:10:19.813 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (1d9a572cf94ec815c7e4da21a32e632d)] -> name: departure-flight] 
+2026-02-24 21:10:19.946 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (1d9a572cf94ec815c7e4da21a32e632d)] -> name: arrival-flight] 
+2026-02-24 21:10:20.099 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (1d9a572cf94ec815c7e4da21a32e632d)] -> id: confirm-flights] 
+2026-02-24 21:10:40.860 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:13:23.576 [main] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 21:13:25.645 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:13:28.055 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:13:28.171 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:13:28.257 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:13:28.340 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:13:28.455 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:13:28.558 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:13:28.658 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:13:28.915 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:13:29.040 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (8017de9eaa9906a1676bddc96268f262)] -> id: register-btn] 
+2026-02-24 21:13:29.280 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:13:30.816 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:13:33.112 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:13:33.134 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:13:33.155 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:13:33.269 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:13:33.374 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:13:33.478 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:13:33.562 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:13:33.669 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:13:33.763 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:13:33.860 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:13:34.031 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:13:34.157 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a47d5937dac40f768c38c7a411dd27ca)] -> id: register-btn] 
+2026-02-24 21:13:35.396 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:13:35.456 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:13:35.599 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:13:35.599 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:13:35.794 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a47d5937dac40f768c38c7a411dd27ca)] -> id: go-to-flights-search] 
+2026-02-24 21:13:37.120 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:13:37.136 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:13:37.159 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:13:37.279 [main] INFO  com.debs.utils.BasePage - Option 1 is selected 
+2026-02-24 21:13:37.412 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:13:37.556 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:13:37.757 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a47d5937dac40f768c38c7a411dd27ca)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:13:37.803 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (a47d5937dac40f768c38c7a411dd27ca)] -> id: search-flights] 
+2026-02-24 21:13:38.383 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:13:38.403 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:13:38.422 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:13:38.519 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a47d5937dac40f768c38c7a411dd27ca)] -> name: departure-flight] 
+2026-02-24 21:13:38.611 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a47d5937dac40f768c38c7a411dd27ca)] -> name: arrival-flight] 
+2026-02-24 21:13:38.733 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a47d5937dac40f768c38c7a411dd27ca)] -> id: confirm-flights] 
+2026-02-24 21:13:40.567 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:13:40.625 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:13:40.711 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : 2026-2-1771947820084 
+2026-02-24 21:13:41.027 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:13:42.547 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:13:43.588 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:13:43.637 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:13:43.681 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:13:43.848 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:13:43.950 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:13:44.138 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:13:44.314 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:13:44.532 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:13:44.736 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:13:44.869 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:13:45.136 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:13:45.286 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (25e7013507c2f0ad71379be0e7b3b628)] -> id: register-btn] 
+2026-02-24 21:13:46.957 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:13:46.978 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:13:47.045 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:13:47.045 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:13:47.239 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (25e7013507c2f0ad71379be0e7b3b628)] -> id: go-to-flights-search] 
+2026-02-24 21:13:47.943 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:13:48.000 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:13:48.057 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:13:48.263 [main] INFO  com.debs.utils.BasePage - Option 2 is selected 
+2026-02-24 21:13:48.502 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:13:48.675 [main] INFO  com.debs.utils.BasePage - Option Portland is selected 
+2026-02-24 21:13:48.973 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (25e7013507c2f0ad71379be0e7b3b628)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:13:49.052 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (25e7013507c2f0ad71379be0e7b3b628)] -> id: search-flights] 
+2026-02-24 21:13:50.883 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:13:50.927 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:13:50.948 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:13:51.100 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (25e7013507c2f0ad71379be0e7b3b628)] -> name: departure-flight] 
+2026-02-24 21:13:51.231 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (25e7013507c2f0ad71379be0e7b3b628)] -> name: arrival-flight] 
+2026-02-24 21:13:51.395 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (25e7013507c2f0ad71379be0e7b3b628)] -> id: confirm-flights] 
+2026-02-24 21:13:52.070 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:13:52.141 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:13:52.220 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : 2026-2-1771947831754 
+2026-02-24 21:13:52.554 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:13:54.070 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:13:56.026 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:13:56.069 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:13:56.113 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:13:56.249 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:13:56.343 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:13:56.508 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:13:56.594 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:13:56.696 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:13:56.900 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:13:57.095 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:13:57.407 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:13:57.645 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7dc72d8334afdf6220632350b485c464)] -> id: register-btn] 
+2026-02-24 21:13:58.313 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:13:58.369 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:13:58.516 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:13:58.516 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:13:58.716 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7dc72d8334afdf6220632350b485c464)] -> id: go-to-flights-search] 
+2026-02-24 21:13:59.929 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:13:59.963 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:13:59.997 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:14:00.209 [main] INFO  com.debs.utils.BasePage - Option 3 is selected 
+2026-02-24 21:14:00.398 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:14:00.572 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:14:00.727 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7dc72d8334afdf6220632350b485c464)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:14:00.854 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (7dc72d8334afdf6220632350b485c464)] -> id: search-flights] 
+2026-02-24 21:14:02.675 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:14:02.698 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:14:02.741 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:14:02.917 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7dc72d8334afdf6220632350b485c464)] -> name: departure-flight] 
+2026-02-24 21:14:03.049 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7dc72d8334afdf6220632350b485c464)] -> name: arrival-flight] 
+2026-02-24 21:14:03.230 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7dc72d8334afdf6220632350b485c464)] -> id: confirm-flights] 
+2026-02-24 21:14:03.881 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:14:03.913 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:14:03.950 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : 2026-2-1771947843328 
+2026-02-24 21:14:04.160 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:14:05.646 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:14:07.301 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:14:07.320 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:14:07.339 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:14:07.534 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:14:07.729 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:14:07.961 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:14:08.136 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:14:08.353 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:14:08.448 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:14:08.633 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:14:08.914 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:14:09.048 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (b9dd65e31b2543d15ecc1cf9f45ca383)] -> id: register-btn] 
+2026-02-24 21:14:10.304 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:14:10.380 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:14:10.518 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:14:10.518 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:14:10.735 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (b9dd65e31b2543d15ecc1cf9f45ca383)] -> id: go-to-flights-search] 
+2026-02-24 21:14:11.960 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:14:11.984 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:14:12.005 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:14:12.215 [main] INFO  com.debs.utils.BasePage - Option 4 is selected 
+2026-02-24 21:14:12.377 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:14:12.544 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:14:12.712 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (b9dd65e31b2543d15ecc1cf9f45ca383)] -> id: search-flights] 
+2026-02-24 21:14:13.945 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:14:13.996 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:14:14.027 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:14:14.185 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (b9dd65e31b2543d15ecc1cf9f45ca383)] -> name: departure-flight] 
+2026-02-24 21:14:14.308 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (b9dd65e31b2543d15ecc1cf9f45ca383)] -> name: arrival-flight] 
+2026-02-24 21:14:14.486 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (b9dd65e31b2543d15ecc1cf9f45ca383)] -> id: confirm-flights] 
+2026-02-24 21:14:15.749 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:14:15.807 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:14:15.885 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : 2026-2-1771947855452 
+2026-02-24 21:14:16.126 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:15:19.741 [main] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 21:15:22.487 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:15:24.764 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:15:24.873 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:15:24.982 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:15:25.065 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:15:25.181 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:15:25.280 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:15:25.374 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:15:25.564 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:15:25.678 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (3de311b4b1be021e043404146956d4bc)] -> id: register-btn] 
+2026-02-24 21:15:25.972 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:15:27.859 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:15:28.737 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:28.769 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:28.802 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:15:28.953 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:15:29.064 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:15:29.170 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:15:29.265 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:15:29.376 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:15:29.464 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:15:29.551 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:15:29.743 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:15:30.025 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a5e57277f3b26a788bf0e558b62a72b7)] -> id: register-btn] 
+2026-02-24 21:15:30.778 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:30.822 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:30.881 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:15:30.881 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:15:31.091 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a5e57277f3b26a788bf0e558b62a72b7)] -> id: go-to-flights-search] 
+2026-02-24 21:15:31.798 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:31.822 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:31.840 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:15:31.969 [main] INFO  com.debs.utils.BasePage - Option 1 is selected 
+2026-02-24 21:15:32.113 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:15:32.276 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:15:32.510 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a5e57277f3b26a788bf0e558b62a72b7)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:15:32.566 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (a5e57277f3b26a788bf0e558b62a72b7)] -> id: search-flights] 
+2026-02-24 21:15:33.718 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:33.735 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:33.754 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:15:33.855 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a5e57277f3b26a788bf0e558b62a72b7)] -> name: departure-flight] 
+2026-02-24 21:15:33.953 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a5e57277f3b26a788bf0e558b62a72b7)] -> name: arrival-flight] 
+2026-02-24 21:15:34.063 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a5e57277f3b26a788bf0e558b62a72b7)] -> id: confirm-flights] 
+2026-02-24 21:15:34.723 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:34.783 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:34.841 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $89 USD 
+2026-02-24 21:15:35.091 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:15:36.619 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:15:38.977 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:38.998 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:39.015 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:15:39.142 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:15:39.253 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:15:39.429 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:15:39.556 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:15:39.706 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:15:39.818 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:15:40.028 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:15:40.327 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:15:40.452 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (bd41d767eca749dd2b13e0180b6a3ff2)] -> id: register-btn] 
+2026-02-24 21:15:42.115 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:42.133 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:42.195 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:15:42.195 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:15:42.371 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (bd41d767eca749dd2b13e0180b6a3ff2)] -> id: go-to-flights-search] 
+2026-02-24 21:15:43.611 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:43.671 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:43.732 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:15:43.959 [main] INFO  com.debs.utils.BasePage - Option 2 is selected 
+2026-02-24 21:15:44.106 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:15:44.263 [main] INFO  com.debs.utils.BasePage - Option Portland is selected 
+2026-02-24 21:15:44.473 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (bd41d767eca749dd2b13e0180b6a3ff2)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:15:44.515 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (bd41d767eca749dd2b13e0180b6a3ff2)] -> id: search-flights] 
+2026-02-24 21:15:46.316 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:46.373 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:46.435 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:15:46.628 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (bd41d767eca749dd2b13e0180b6a3ff2)] -> name: departure-flight] 
+2026-02-24 21:15:46.764 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (bd41d767eca749dd2b13e0180b6a3ff2)] -> name: arrival-flight] 
+2026-02-24 21:15:46.972 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (bd41d767eca749dd2b13e0180b6a3ff2)] -> id: confirm-flights] 
+2026-02-24 21:15:48.717 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:48.734 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:48.757 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $89 USD 
+2026-02-24 21:15:49.638 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:15:51.111 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:15:53.597 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:53.621 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:53.649 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:15:53.823 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:15:53.944 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:15:54.073 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:15:54.174 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:15:54.277 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:15:54.371 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:15:54.463 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:15:54.733 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:15:54.928 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c1aec9ebb060dce3529c43b150591cbc)] -> id: register-btn] 
+2026-02-24 21:15:56.164 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:56.218 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:56.291 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:15:56.291 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:15:56.487 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c1aec9ebb060dce3529c43b150591cbc)] -> id: go-to-flights-search] 
+2026-02-24 21:15:58.147 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:58.162 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:58.180 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:15:58.322 [main] INFO  com.debs.utils.BasePage - Option 3 is selected 
+2026-02-24 21:15:58.464 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:15:58.596 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:15:58.888 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c1aec9ebb060dce3529c43b150591cbc)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:15:59.068 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (c1aec9ebb060dce3529c43b150591cbc)] -> id: search-flights] 
+2026-02-24 21:15:59.743 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:15:59.767 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:15:59.795 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:15:59.933 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c1aec9ebb060dce3529c43b150591cbc)] -> name: departure-flight] 
+2026-02-24 21:16:00.034 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c1aec9ebb060dce3529c43b150591cbc)] -> name: arrival-flight] 
+2026-02-24 21:16:00.209 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c1aec9ebb060dce3529c43b150591cbc)] -> id: confirm-flights] 
+2026-02-24 21:16:01.454 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:16:01.513 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:16:01.602 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $89 USD 
+2026-02-24 21:16:01.883 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:16:03.394 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:16:07.078 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:16:07.106 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:16:07.132 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:16:07.270 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:16:07.362 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:16:07.462 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:16:07.545 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:16:07.643 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:16:07.741 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:16:07.832 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:16:07.981 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:16:08.095 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0552b29c320191ac762f60f0504ca975)] -> id: register-btn] 
+2026-02-24 21:16:08.756 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:16:08.804 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:16:08.877 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:16:08.877 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:16:09.060 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0552b29c320191ac762f60f0504ca975)] -> id: go-to-flights-search] 
+2026-02-24 21:16:11.443 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:16:11.463 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:16:11.480 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:16:11.597 [main] INFO  com.debs.utils.BasePage - Option 4 is selected 
+2026-02-24 21:16:11.732 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:16:11.911 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:16:12.099 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (0552b29c320191ac762f60f0504ca975)] -> id: search-flights] 
+2026-02-24 21:16:13.891 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:16:13.946 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:16:13.982 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:16:14.138 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0552b29c320191ac762f60f0504ca975)] -> name: departure-flight] 
+2026-02-24 21:16:14.272 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0552b29c320191ac762f60f0504ca975)] -> name: arrival-flight] 
+2026-02-24 21:16:14.444 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0552b29c320191ac762f60f0504ca975)] -> id: confirm-flights] 
+2026-02-24 21:16:16.758 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:16:16.779 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:16:16.803 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $89 USD 
+2026-02-24 21:16:17.910 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:19:39.372 [main] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 21:19:41.412 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:19:44.189 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:19:44.302 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:19:44.412 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:19:44.502 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:19:44.610 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:19:44.704 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:19:44.786 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:19:44.947 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:19:45.077 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (225726cfab4650f294096f3aa3eb67d8)] -> id: register-btn] 
+2026-02-24 21:19:45.313 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:19:46.891 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:19:48.016 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:19:48.036 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:19:48.061 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:19:48.171 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:19:48.273 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:19:48.361 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:19:48.432 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:19:48.547 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:19:48.654 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:19:48.744 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:19:48.892 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:19:49.010 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (f0c6b17c142ce90b62b8c4565156eebe)] -> id: register-btn] 
+2026-02-24 21:19:50.244 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:19:50.303 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:19:50.409 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:19:50.409 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:19:50.661 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (f0c6b17c142ce90b62b8c4565156eebe)] -> id: go-to-flights-search] 
+2026-02-24 21:19:50.726 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:19:50.749 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:19:50.773 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:19:50.904 [main] INFO  com.debs.utils.BasePage - Option 1 is selected 
+2026-02-24 21:19:51.075 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:19:51.260 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:19:51.479 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (f0c6b17c142ce90b62b8c4565156eebe)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:19:51.529 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (f0c6b17c142ce90b62b8c4565156eebe)] -> id: search-flights] 
+2026-02-24 21:19:52.773 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:19:52.836 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:19:52.878 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:19:53.091 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (f0c6b17c142ce90b62b8c4565156eebe)] -> name: departure-flight] 
+2026-02-24 21:19:53.189 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (f0c6b17c142ce90b62b8c4565156eebe)] -> name: arrival-flight] 
+2026-02-24 21:19:53.303 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (f0c6b17c142ce90b62b8c4565156eebe)] -> id: confirm-flights] 
+2026-02-24 21:19:55.728 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:19:55.785 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:19:55.872 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $89 USD 
+2026-02-24 21:19:56.092 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:19:57.566 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:20:00.163 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:00.178 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:00.197 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:20:00.297 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:20:00.394 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:20:00.490 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:20:00.572 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:20:00.676 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:20:00.773 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:20:00.859 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:20:01.025 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:20:01.138 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (3baa264fdfffb0c8dc6daff048d276b3)] -> id: register-btn] 
+2026-02-24 21:20:03.335 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:03.354 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:03.413 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:20:03.413 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:20:03.594 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (3baa264fdfffb0c8dc6daff048d276b3)] -> id: go-to-flights-search] 
+2026-02-24 21:20:04.181 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:04.199 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:04.217 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:20:04.373 [main] INFO  com.debs.utils.BasePage - Option 2 is selected 
+2026-02-24 21:20:04.516 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:20:04.635 [main] INFO  com.debs.utils.BasePage - Option Portland is selected 
+2026-02-24 21:20:04.834 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (3baa264fdfffb0c8dc6daff048d276b3)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:20:04.875 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (3baa264fdfffb0c8dc6daff048d276b3)] -> id: search-flights] 
+2026-02-24 21:20:06.092 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:06.148 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:06.203 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:20:06.375 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (3baa264fdfffb0c8dc6daff048d276b3)] -> name: departure-flight] 
+2026-02-24 21:20:06.548 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (3baa264fdfffb0c8dc6daff048d276b3)] -> name: arrival-flight] 
+2026-02-24 21:20:06.742 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (3baa264fdfffb0c8dc6daff048d276b3)] -> id: confirm-flights] 
+2026-02-24 21:20:08.557 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:08.621 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:08.685 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $89 USD 
+2026-02-24 21:20:08.950 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:20:10.465 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:20:11.304 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:11.341 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:11.387 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:20:11.609 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:20:11.709 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:20:11.816 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:20:11.996 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:20:12.224 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:20:12.326 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:20:12.426 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:20:12.672 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:20:12.909 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7e7d86bdef06cb2a2cafd512bcfe3d22)] -> id: register-btn] 
+2026-02-24 21:20:14.720 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:14.744 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:14.810 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:20:14.810 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:20:15.042 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7e7d86bdef06cb2a2cafd512bcfe3d22)] -> id: go-to-flights-search] 
+2026-02-24 21:20:15.722 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:15.782 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:15.849 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:20:16.045 [main] INFO  com.debs.utils.BasePage - Option 3 is selected 
+2026-02-24 21:20:16.188 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:20:16.347 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:20:16.509 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7e7d86bdef06cb2a2cafd512bcfe3d22)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:20:16.625 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (7e7d86bdef06cb2a2cafd512bcfe3d22)] -> id: search-flights] 
+2026-02-24 21:20:17.861 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:17.897 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:17.932 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:20:18.062 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7e7d86bdef06cb2a2cafd512bcfe3d22)] -> name: departure-flight] 
+2026-02-24 21:20:18.169 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7e7d86bdef06cb2a2cafd512bcfe3d22)] -> name: arrival-flight] 
+2026-02-24 21:20:18.295 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7e7d86bdef06cb2a2cafd512bcfe3d22)] -> id: confirm-flights] 
+2026-02-24 21:20:20.062 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:20.107 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:20.154 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $89 USD 
+2026-02-24 21:20:20.416 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:20:21.889 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:20:25.009 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:25.031 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:25.052 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:20:25.228 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:20:25.329 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:20:25.492 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:20:25.640 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:20:25.850 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:20:25.990 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:20:26.136 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:20:26.386 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:20:26.516 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a8bca6d3647358165d2e787d0f094c5d)] -> id: register-btn] 
+2026-02-24 21:20:28.255 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:28.273 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:28.335 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:20:28.335 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:20:28.530 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a8bca6d3647358165d2e787d0f094c5d)] -> id: go-to-flights-search] 
+2026-02-24 21:20:30.289 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:30.316 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:30.336 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:20:30.586 [main] INFO  com.debs.utils.BasePage - Option 4 is selected 
+2026-02-24 21:20:30.771 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:20:30.994 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:20:31.265 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (a8bca6d3647358165d2e787d0f094c5d)] -> id: search-flights] 
+2026-02-24 21:20:31.946 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:31.988 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:32.029 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:20:32.227 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a8bca6d3647358165d2e787d0f094c5d)] -> name: departure-flight] 
+2026-02-24 21:20:32.361 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a8bca6d3647358165d2e787d0f094c5d)] -> name: arrival-flight] 
+2026-02-24 21:20:32.515 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a8bca6d3647358165d2e787d0f094c5d)] -> id: confirm-flights] 
+2026-02-24 21:20:33.171 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:20:33.224 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:20:33.268 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $89 USD 
+2026-02-24 21:20:33.490 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:36:45.652 [main] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 21:36:47.489 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:36:50.050 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:36:50.161 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:36:50.275 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:36:50.371 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:36:50.488 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:36:50.596 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:36:50.703 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:36:50.902 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:36:51.041 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (c2f66f1f4b8d5e42ad8e874494f9bf75)] -> id: register-btn] 
+2026-02-24 21:36:51.283 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:36:52.483 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:36:53.229 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:36:53.256 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:36:53.284 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:36:53.416 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:36:53.545 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:36:53.656 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:36:53.751 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:36:53.868 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:36:53.973 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:36:54.081 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:36:54.256 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:36:54.391 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e71235e05643d8476d620e46d725e976)] -> id: register-btn] 
+2026-02-24 21:36:54.968 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:36:54.988 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:36:55.053 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:36:55.053 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:36:55.267 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e71235e05643d8476d620e46d725e976)] -> id: go-to-flights-search] 
+2026-02-24 21:36:56.410 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:36:56.430 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:36:56.449 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:36:56.586 [main] INFO  com.debs.utils.BasePage - Option 1 is selected 
+2026-02-24 21:36:56.748 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:36:56.923 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:36:57.124 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e71235e05643d8476d620e46d725e976)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:36:57.168 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (e71235e05643d8476d620e46d725e976)] -> id: search-flights] 
+2026-02-24 21:36:57.746 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:36:57.766 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:36:57.784 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:36:57.893 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e71235e05643d8476d620e46d725e976)] -> name: departure-flight] 
+2026-02-24 21:36:57.990 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e71235e05643d8476d620e46d725e976)] -> name: arrival-flight] 
+2026-02-24 21:36:58.109 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e71235e05643d8476d620e46d725e976)] -> id: confirm-flights] 
+2026-02-24 21:36:59.737 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:36:59.760 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:36:59.780 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $584 USD 
+2026-02-24 21:37:00.047 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:37:01.263 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:37:03.738 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:03.755 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:03.781 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:37:03.900 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:37:03.992 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:37:04.089 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:37:04.172 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:37:04.287 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:37:04.389 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:37:04.489 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:37:04.637 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:37:04.771 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (5cab74baf661ca360b7670787431fa5e)] -> id: register-btn] 
+2026-02-24 21:37:06.387 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:06.414 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:06.475 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:37:06.475 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:37:06.715 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (5cab74baf661ca360b7670787431fa5e)] -> id: go-to-flights-search] 
+2026-02-24 21:37:07.312 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:07.334 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:07.351 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:37:07.493 [main] INFO  com.debs.utils.BasePage - Option 2 is selected 
+2026-02-24 21:37:07.635 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:37:07.782 [main] INFO  com.debs.utils.BasePage - Option Portland is selected 
+2026-02-24 21:37:07.989 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (5cab74baf661ca360b7670787431fa5e)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:37:08.036 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (5cab74baf661ca360b7670787431fa5e)] -> id: search-flights] 
+2026-02-24 21:37:08.603 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:08.623 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:08.641 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:37:08.744 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (5cab74baf661ca360b7670787431fa5e)] -> name: departure-flight] 
+2026-02-24 21:37:08.833 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (5cab74baf661ca360b7670787431fa5e)] -> name: arrival-flight] 
+2026-02-24 21:37:08.950 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (5cab74baf661ca360b7670787431fa5e)] -> id: confirm-flights] 
+2026-02-24 21:37:09.526 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:09.546 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:09.565 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $1169 USD 
+2026-02-24 21:37:09.814 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:37:11.002 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:37:13.246 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:13.264 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:13.280 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:37:13.408 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:37:13.510 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:37:13.615 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:37:13.697 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:37:13.808 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:37:13.914 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:37:14.014 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:37:14.162 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:37:14.296 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (ac5bcfd403c33da97e9b52104b234c6e)] -> id: register-btn] 
+2026-02-24 21:37:14.864 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:14.880 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:14.943 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:37:14.943 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:37:15.133 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (ac5bcfd403c33da97e9b52104b234c6e)] -> id: go-to-flights-search] 
+2026-02-24 21:37:15.802 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:15.858 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:15.915 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:37:16.144 [main] INFO  com.debs.utils.BasePage - Option 3 is selected 
+2026-02-24 21:37:16.315 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:37:16.465 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:37:16.632 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (ac5bcfd403c33da97e9b52104b234c6e)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:37:16.724 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (ac5bcfd403c33da97e9b52104b234c6e)] -> id: search-flights] 
+2026-02-24 21:37:17.374 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:17.410 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:17.436 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:37:17.598 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (ac5bcfd403c33da97e9b52104b234c6e)] -> name: departure-flight] 
+2026-02-24 21:37:17.686 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (ac5bcfd403c33da97e9b52104b234c6e)] -> name: arrival-flight] 
+2026-02-24 21:37:17.793 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (ac5bcfd403c33da97e9b52104b234c6e)] -> id: confirm-flights] 
+2026-02-24 21:37:19.491 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:19.511 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:19.534 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $1753 USD 
+2026-02-24 21:37:19.767 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:37:21.401 [main] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:37:22.857 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:22.873 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:22.893 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:37:23.001 [main] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:37:23.107 [main] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:37:23.207 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:37:23.289 [main] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:37:23.384 [main] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:37:23.473 [main] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:37:23.562 [main] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:37:23.715 [main] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:37:23.826 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (57d459c877d51f2bd16c253d35d568c5)] -> id: register-btn] 
+2026-02-24 21:37:24.470 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:24.503 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:24.559 [main] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:37:24.566 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:37:24.750 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (57d459c877d51f2bd16c253d35d568c5)] -> id: go-to-flights-search] 
+2026-02-24 21:37:25.861 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:25.877 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:25.894 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:37:26.039 [main] INFO  com.debs.utils.BasePage - Option 4 is selected 
+2026-02-24 21:37:26.181 [main] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:37:26.306 [main] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:37:26.438 [main] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (57d459c877d51f2bd16c253d35d568c5)] -> id: search-flights] 
+2026-02-24 21:37:27.633 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:27.662 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:27.685 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:37:27.794 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (57d459c877d51f2bd16c253d35d568c5)] -> name: departure-flight] 
+2026-02-24 21:37:27.881 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (57d459c877d51f2bd16c253d35d568c5)] -> name: arrival-flight] 
+2026-02-24 21:37:27.982 [main] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (57d459c877d51f2bd16c253d35d568c5)] -> id: confirm-flights] 
+2026-02-24 21:37:29.772 [main] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:37:29.830 [main] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:37:29.902 [main] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $2338 USD 
+2026-02-24 21:37:30.175 [main] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:46:54.408 [TestNG-test-Test-1] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 21:46:56.694 [TestNG-test-Test-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:46:57.552 [TestNG-test-Test-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:46:59.778 [TestNG-test-Test-1] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:46:59.918 [TestNG-test-Test-1] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:47:00.119 [TestNG-test-Test-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:47:00.148 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:00.176 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:00.205 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:47:00.225 [TestNG-test-Test-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:47:00.372 [TestNG-test-Test-1] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:47:00.402 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:47:00.499 [TestNG-test-Test-1] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:47:00.530 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:47:00.624 [TestNG-test-Test-1] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:47:00.665 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:47:00.773 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:47:00.842 [TestNG-test-Test-1] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:47:00.883 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:47:00.988 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:47:00.999 [TestNG-test-Test-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7300fe3dd97ff6a2f4bfca069504d1b1)] -> id: register-btn] 
+2026-02-24 21:47:01.197 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:47:01.288 [TestNG-test-Test-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:47:01.393 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:47:01.530 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (da33268e6951d63260d5a9df377f1b6d)] -> id: register-btn] 
+2026-02-24 21:47:02.811 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:02.845 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:02.963 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:47:02.963 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:47:03.187 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (da33268e6951d63260d5a9df377f1b6d)] -> id: go-to-flights-search] 
+2026-02-24 21:47:04.988 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:05.012 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:05.034 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:47:05.284 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option 1 is selected 
+2026-02-24 21:47:05.558 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:47:05.776 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:47:06.101 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (da33268e6951d63260d5a9df377f1b6d)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:47:06.172 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (da33268e6951d63260d5a9df377f1b6d)] -> id: search-flights] 
+2026-02-24 21:47:07.987 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:08.018 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:08.054 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:47:08.182 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (da33268e6951d63260d5a9df377f1b6d)] -> name: departure-flight] 
+2026-02-24 21:47:08.279 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (da33268e6951d63260d5a9df377f1b6d)] -> name: arrival-flight] 
+2026-02-24 21:47:08.401 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (da33268e6951d63260d5a9df377f1b6d)] -> id: confirm-flights] 
+2026-02-24 21:47:09.531 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:09.563 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:09.591 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $584 USD 
+2026-02-24 21:47:10.792 [TestNG-test-Test-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:47:12.251 [TestNG-test-Test-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:47:14.802 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:14.827 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:14.865 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:47:15.102 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:47:15.203 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:47:15.307 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:47:15.482 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:47:15.718 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:47:15.830 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:47:16.001 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:47:16.283 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:47:16.441 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a0ad4426f0af37490a0cb68f9cc4ee99)] -> id: register-btn] 
+2026-02-24 21:47:18.750 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:18.771 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:18.831 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:47:18.831 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:47:19.031 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a0ad4426f0af37490a0cb68f9cc4ee99)] -> id: go-to-flights-search] 
+2026-02-24 21:47:19.083 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:19.109 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:19.130 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:47:19.340 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option 2 is selected 
+2026-02-24 21:47:19.574 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:47:19.858 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option Portland is selected 
+2026-02-24 21:47:20.189 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a0ad4426f0af37490a0cb68f9cc4ee99)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:47:20.239 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (a0ad4426f0af37490a0cb68f9cc4ee99)] -> id: search-flights] 
+2026-02-24 21:47:20.919 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:20.977 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:21.034 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:47:21.229 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a0ad4426f0af37490a0cb68f9cc4ee99)] -> name: departure-flight] 
+2026-02-24 21:47:21.371 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a0ad4426f0af37490a0cb68f9cc4ee99)] -> name: arrival-flight] 
+2026-02-24 21:47:21.528 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a0ad4426f0af37490a0cb68f9cc4ee99)] -> id: confirm-flights] 
+2026-02-24 21:47:22.140 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:22.170 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:22.204 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $1169 USD 
+2026-02-24 21:47:22.431 [TestNG-test-Test-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:47:24.006 [TestNG-test-Test-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:47:26.905 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:26.942 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:26.986 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:47:27.166 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:47:27.365 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:47:27.565 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:47:27.644 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:47:27.737 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:47:27.830 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:47:27.918 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:47:28.065 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:47:28.194 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0de1726cc62ac181609d43e4b016b94c)] -> id: register-btn] 
+2026-02-24 21:47:29.978 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:30.006 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:30.081 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:47:30.081 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:47:30.323 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0de1726cc62ac181609d43e4b016b94c)] -> id: go-to-flights-search] 
+2026-02-24 21:47:30.522 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:30.551 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:30.573 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:47:30.695 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option 3 is selected 
+2026-02-24 21:47:30.825 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:47:30.972 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:47:31.134 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0de1726cc62ac181609d43e4b016b94c)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:47:31.231 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (0de1726cc62ac181609d43e4b016b94c)] -> id: search-flights] 
+2026-02-24 21:47:31.871 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:31.894 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:31.911 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:47:32.007 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0de1726cc62ac181609d43e4b016b94c)] -> name: departure-flight] 
+2026-02-24 21:47:32.100 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0de1726cc62ac181609d43e4b016b94c)] -> name: arrival-flight] 
+2026-02-24 21:47:32.214 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0de1726cc62ac181609d43e4b016b94c)] -> id: confirm-flights] 
+2026-02-24 21:47:32.869 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:32.905 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:32.950 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $1753 USD 
+2026-02-24 21:47:33.203 [TestNG-test-Test-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:47:34.787 [TestNG-test-Test-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:47:37.477 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:37.497 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:37.514 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:47:37.683 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:47:37.780 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:47:37.956 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:47:38.058 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:47:38.160 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:47:38.247 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:47:38.334 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:47:38.487 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:47:38.614 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (adf06905e38e0e0bb841cb4a13ada824)] -> id: register-btn] 
+2026-02-24 21:47:39.829 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:39.853 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:39.909 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:47:39.910 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:47:40.095 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (adf06905e38e0e0bb841cb4a13ada824)] -> id: go-to-flights-search] 
+2026-02-24 21:47:41.249 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:41.264 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:41.281 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:47:41.409 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option 4 is selected 
+2026-02-24 21:47:41.662 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:47:41.803 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:47:41.935 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (adf06905e38e0e0bb841cb4a13ada824)] -> id: search-flights] 
+2026-02-24 21:47:43.098 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:43.151 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:43.211 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:47:43.405 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (adf06905e38e0e0bb841cb4a13ada824)] -> name: departure-flight] 
+2026-02-24 21:47:43.488 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (adf06905e38e0e0bb841cb4a13ada824)] -> name: arrival-flight] 
+2026-02-24 21:47:43.592 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (adf06905e38e0e0bb841cb4a13ada824)] -> id: confirm-flights] 
+2026-02-24 21:47:45.391 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:47:45.413 [TestNG-test-Test-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:47:45.443 [TestNG-test-Test-2] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $2338 USD 
+2026-02-24 21:47:45.659 [TestNG-test-Test-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:48:40.134 [TestNG-PoolService-1] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-24 21:48:42.572 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:48:44.221 [TestNG-PoolService-4] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:48:44.384 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:48:45.948 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:46.004 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:48:46.966 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-24 21:48:47.198 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:47.697 [TestNG-PoolService-1] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:48:47.900 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:47.949 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:48:47.968 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:48.065 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:48:48.071 [TestNG-PoolService-4] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:48:48.302 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:48:48.369 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:48.395 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:48.425 [TestNG-PoolService-3] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:48:48.437 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:48:48.598 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:48:48.635 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:48:48.662 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:48:48.733 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:48:48.850 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:48:48.864 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:48:48.929 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:48:48.956 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:48:48.990 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:48:49.088 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:48:49.149 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:48:49.279 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:48:49.333 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:48:49.452 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:48:49.483 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:48:49.633 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:48:49.710 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:48:49.839 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:48:49.889 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a75c314133b89cb2ea7257dd7436fe71)] -> id: register-btn] 
+2026-02-24 21:48:49.950 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:48:49.987 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:48:50.114 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:48:50.233 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:48:50.338 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:48:50.420 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:48:50.567 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:48:50.634 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:48:50.763 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:48:51.028 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (803961f2d6489fd7d9a8462ed75e535d)] -> id: register-btn] 
+2026-02-24 21:48:51.081 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:51.096 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:48:51.129 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:51.104 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:51.179 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (6c191445d44d45104e43aebdd88aed9d)] -> id: register-btn] 
+2026-02-24 21:48:51.299 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:48:51.299 [TestNG-PoolService-3] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:48:51.304 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:51.356 [TestNG-PoolService-2] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-24 21:48:51.995 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a75c314133b89cb2ea7257dd7436fe71)] -> id: go-to-flights-search] 
+2026-02-24 21:48:52.325 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (11de2bfa9305a34029139970e966ff3c)] -> id: register-btn] 
+2026-02-24 21:48:52.370 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:52.390 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:52.411 [TestNG-PoolService-3] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:48:52.607 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Option 3 is selected 
+2026-02-24 21:48:52.607 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-24 21:48:52.619 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:52.711 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:52.740 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:52.798 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:48:52.834 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:52.925 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-24 21:48:52.975 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:48:52.975 [TestNG-PoolService-1] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:48:53.098 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:48:53.101 [TestNG-PoolService-4] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:48:53.108 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:48:53.276 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:48:53.310 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a75c314133b89cb2ea7257dd7436fe71)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:48:53.486 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (a75c314133b89cb2ea7257dd7436fe71)] -> id: search-flights] 
+2026-02-24 21:48:53.530 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (803961f2d6489fd7d9a8462ed75e535d)] -> id: go-to-flights-search] 
+2026-02-24 21:48:53.561 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-24 21:48:53.857 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (11de2bfa9305a34029139970e966ff3c)] -> id: go-to-flights-search] 
+2026-02-24 21:48:53.848 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-24 21:48:54.073 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-24 21:48:54.188 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-24 21:48:54.388 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-24 21:48:54.574 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (806a0f23c2270f60994e234a0531a6b4)] -> id: register-btn] 
+2026-02-24 21:48:54.604 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:54.651 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:54.655 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:54.674 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:54.692 [TestNG-PoolService-3] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:48:54.692 [TestNG-PoolService-4] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:48:54.732 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:54.769 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:54.811 [TestNG-PoolService-1] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:48:54.822 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a75c314133b89cb2ea7257dd7436fe71)] -> name: departure-flight] 
+2026-02-24 21:48:54.929 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a75c314133b89cb2ea7257dd7436fe71)] -> name: arrival-flight] 
+2026-02-24 21:48:54.930 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Option 4 is selected 
+2026-02-24 21:48:55.039 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Option 1 is selected 
+2026-02-24 21:48:55.065 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (a75c314133b89cb2ea7257dd7436fe71)] -> id: confirm-flights] 
+2026-02-24 21:48:55.178 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:48:55.220 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:48:55.492 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:48:55.513 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-24 21:48:55.661 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:55.695 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:55.727 [TestNG-PoolService-3] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $1753 USD 
+2026-02-24 21:48:55.837 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (11de2bfa9305a34029139970e966ff3c)] -> id: search-flights] 
+2026-02-24 21:48:55.948 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (803961f2d6489fd7d9a8462ed75e535d)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:48:56.009 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (803961f2d6489fd7d9a8462ed75e535d)] -> id: search-flights] 
+2026-02-24 21:48:56.372 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:56.397 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:56.480 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-24 21:48:56.480 [TestNG-PoolService-2] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-24 21:48:56.712 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (806a0f23c2270f60994e234a0531a6b4)] -> id: go-to-flights-search] 
+2026-02-24 21:48:56.777 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:56.803 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:56.827 [TestNG-PoolService-2] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-24 21:48:57.002 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Option 2 is selected 
+2026-02-24 21:48:57.194 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-24 21:48:57.370 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:48:57.371 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Option Portland is selected 
+2026-02-24 21:48:57.544 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:57.564 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:57.590 [TestNG-PoolService-4] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:48:57.623 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (806a0f23c2270f60994e234a0531a6b4)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-24 21:48:57.671 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (806a0f23c2270f60994e234a0531a6b4)] -> id: search-flights] 
+2026-02-24 21:48:57.763 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (11de2bfa9305a34029139970e966ff3c)] -> name: departure-flight] 
+2026-02-24 21:48:57.780 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:48:57.895 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (11de2bfa9305a34029139970e966ff3c)] -> name: arrival-flight] 
+2026-02-24 21:48:58.022 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (11de2bfa9305a34029139970e966ff3c)] -> id: confirm-flights] 
+2026-02-24 21:48:58.256 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:58.271 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:58.290 [TestNG-PoolService-1] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:48:58.397 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (803961f2d6489fd7d9a8462ed75e535d)] -> name: departure-flight] 
+2026-02-24 21:48:58.479 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (803961f2d6489fd7d9a8462ed75e535d)] -> name: arrival-flight] 
+2026-02-24 21:48:58.591 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (803961f2d6489fd7d9a8462ed75e535d)] -> id: confirm-flights] 
+2026-02-24 21:48:58.618 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:58.636 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:58.659 [TestNG-PoolService-4] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $2338 USD 
+2026-02-24 21:48:58.885 [TestNG-PoolService-4] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:48:59.315 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:59.330 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:59.345 [TestNG-PoolService-2] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-24 21:48:59.441 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (806a0f23c2270f60994e234a0531a6b4)] -> name: departure-flight] 
+2026-02-24 21:48:59.522 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (806a0f23c2270f60994e234a0531a6b4)] -> name: arrival-flight] 
+2026-02-24 21:48:59.629 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (806a0f23c2270f60994e234a0531a6b4)] -> id: confirm-flights] 
+2026-02-24 21:48:59.691 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:48:59.709 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:48:59.732 [TestNG-PoolService-1] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $584 USD 
+2026-02-24 21:48:59.917 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-24 21:49:00.717 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-24 21:49:00.741 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-24 21:49:00.772 [TestNG-PoolService-2] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $1169 USD 
+2026-02-24 21:49:01.950 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
