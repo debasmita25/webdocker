@@ -1,4 +1,4 @@
-package com.debs.utils.bookflights;
+package com.debs.testutils;
 
 import java.io.InputStream;
 import java.util.Map;
@@ -7,12 +7,12 @@ import java.util.concurrent.ConcurrentHashMap;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public final class JsonDataReader {
+public final class JsonDataReaderOld {
 
 	private static final ObjectMapper MAPPER = new ObjectMapper();
 	private static final Map<String, Object> CACHE = new ConcurrentHashMap<>();
 
-	private JsonDataReader() {
+	private JsonDataReaderOld() {
 	}
 
 	public static <T> Map<String, T> read(String fileName, TypeReference<Map<String, T>> typeRef) {
@@ -23,7 +23,7 @@ public final class JsonDataReader {
 			return (Map<String, T>) CACHE.get(cacheKey);
 		}
 
-		try (InputStream is = JsonDataReader.class.getClassLoader().getResourceAsStream(fileName)) {
+		try (InputStream is = JsonDataReaderOld.class.getClassLoader().getResourceAsStream(fileName)) {
 
 			if (is == null) {
 				throw new RuntimeException("JSON not found: " + fileName);

@@ -7,7 +7,7 @@
 		<!-- Provides WebDriver APIs to automate browsers.-->
 		<selenium.java.version>4.33.0</selenium.java.version>
 		<!-- Used for logging test execution.-->
-		<log4j.version>2.22.1</log4j.version>
+		<log4j.version>2.23.1</log4j.version>
 		<!-- excel reading-->
 		<poi.version>5.2.5</poi.version>
 		<!-- Automatically downloads browser drivers.-->
@@ -93,7 +93,7 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>${maven.compiler.version}</version>
 				<configuration>
-					<release>21</release>
+					<release>17</release>
 				</configuration>
 			</plugin>
 			<!-- To run the tests using specific parameters, change thread count, testng report output directory etc -->

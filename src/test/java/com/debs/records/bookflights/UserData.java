@@ -8,6 +8,7 @@ public record UserData(
         String street,
         String city,
         String zip,
+        String state,
         String passengersCount,
         String expectedPrice
 ) {}

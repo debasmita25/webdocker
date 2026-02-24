@@ -66,11 +66,12 @@ public class CustomerRegistration extends BasePage {
 		enterPassword(this.password, password);
 	}
 	
-	public void enterUserAddress(String street, String city, String zip){
+	public void enterUserAddress(String street, String city, String zip,String state){
 		
 		sendKeys(streetName, street);
 		sendKeys(this.city,city);
 		sendKeys(this.zip,zip);
+		selectOption(stateSelect, state);
 	}
 	
     public void register()
