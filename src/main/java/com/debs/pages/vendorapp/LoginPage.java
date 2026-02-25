@@ -28,9 +28,9 @@ public class LoginPage extends BasePage {
 		return isDisplayed_Enabled(loginButton);
 	}
 	
-	public void goTo()
+	public void goTo(String project)
 	{
-		driver.get(ConfigReader.getUrl());
+		driver.get(ConfigReader.getUrl(project));
 	}
 	
 	 public DashboardPage login(String username, String password){

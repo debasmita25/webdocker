@@ -3,6 +3,8 @@ package com.debs.tests.bookflights;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import com.debs.dataproviders.DataProviders;
@@ -16,12 +18,19 @@ import com.debs.records.bookflights.UserData;
 public class BookFlightTest extends BaseTest {
 
 	private static final Logger logger = LogManager.getLogger(BookFlightTest.class);
+	private String projectName;
+	
+	@BeforeTest	
+	@Parameters("project")
+    public void setPageObjects(String project){
+        this.projectName = project;
+    }
 
 	@Test(dataProvider = "jsonData", dataProviderClass = DataProviders.class)
 	public void validUser(UserData data) {
 		// System.out.println("Passengers: " + data.passengersCount());
 		CustomerRegistrationPage custRegister = new CustomerRegistrationPage();
-		custRegister.goTo();
+		custRegister.goTo(projectName);
 		Assert.assertTrue(custRegister.verifyElement());
 		logger.info("Launched the Registration URL Successfully");
 		custRegister.enterUserFirstLastName(data.firstName(), data.lastName());
@@ -57,7 +66,7 @@ public class BookFlightTest extends BaseTest {
 	public void invalidUser(UserData data) {
 		// System.out.println("Passengers: " + data.passengersCount());
 		CustomerRegistrationPage custRegister = new CustomerRegistrationPage();
-		custRegister.goTo();
+		custRegister.goTo(projectName);
 		custRegister.enterUserFirstLastName(data.firstName(), data.lastName());
 		custRegister.enterUserCredentials(data.email(), data.password());
 		custRegister.enterUserAddress(data.street(), data.city(), data.zip(), data.state());

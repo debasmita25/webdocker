@@ -48,9 +48,9 @@ public class CustomerRegistrationPage extends BasePage {
 		
 	}
 	
-	public void goTo()
+	public void goTo(String project)
 	{
-		driver.get(ConfigReader.getUrl());
+		driver.get(ConfigReader.getUrl(project));
 	}
 	
 	public void enterUserFirstLastName(String fname,String lname)

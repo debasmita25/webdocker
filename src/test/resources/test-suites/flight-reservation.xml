@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite" thread-count="3" parallel="methods">
-  <test  name="Test">
+  <test  name="Book flights Test">
+  <parameter name="project" value="bookflights"></parameter>
     <classes>
       <class name="com.debs.tests.bookflights.BookFlightTest"/>
     </classes>

@@ -5,3 +5,715 @@
 2026-02-25 00:01:10.409 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
 2026-02-25 00:01:10.423 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver quit successfully
 2026-02-25 00:01:10.471 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:01:43.141 [TestNG-PoolService-1] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-25 13:01:47.223 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:01:47.615 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:01:49.245 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:01:51.026 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:01:51.095 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:01:51.114 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:02:05.428 [TestNG-PoolService-2] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-25 13:02:08.555 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:02:08.876 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:02:10.542 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:02:12.253 [TestNG-PoolService-4] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:02:12.837 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:13.258 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:13.295 [TestNG-PoolService-2] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-25 13:02:13.321 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:02:13.540 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-25 13:02:14.148 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:14.333 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:14.412 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-25 13:02:14.449 [TestNG-PoolService-3] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-25 13:02:14.685 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:02:14.843 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-25 13:02:14.940 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:02:15.090 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-25 13:02:15.254 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-25 13:02:15.560 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:15.596 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:15.609 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:15.625 [TestNG-PoolService-1] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-25 13:02:15.678 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:15.827 [TestNG-PoolService-4] INFO  com.debs.tests.bookflights.BookFlightTest - Launched the Registration URL Successfully
+2026-02-25 13:02:15.859 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-25 13:02:15.869 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:02:15.954 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-25 13:02:16.102 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-25 13:02:16.159 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-25 13:02:16.172 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:02:16.353 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-25 13:02:16.374 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-25 13:02:16.459 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Text entered : michael 
+2026-02-25 13:02:16.653 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:02:16.793 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:02:16.853 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-25 13:02:16.948 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-25 13:02:17.103 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:02:17.176 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Text entered : jackson 
+2026-02-25 13:02:17.184 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-25 13:02:17.435 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-25 13:02:17.601 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-25 13:02:17.688 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:02:17.732 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-25 13:02:17.788 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:02:17.824 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-25 13:02:17.947 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:02:18.018 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (858d62f3696602c46648d3b22bbb3971)] -> id: register-btn] 
+2026-02-25 13:02:18.036 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (52eb6547d329afb74b3d0cb84cda973d)] -> id: register-btn] 
+2026-02-25 13:02:18.112 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-25 13:02:18.116 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-25 13:02:18.288 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Text entered : 123 main street 
+2026-02-25 13:02:18.480 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-25 13:02:18.575 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : atlanta 
+2026-02-25 13:02:18.739 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-25 13:02:18.858 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 30001 
+2026-02-25 13:02:18.885 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-25 13:02:18.998 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-25 13:02:19.101 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (98571ef695b1564a615121a11998b2df)] -> id: register-btn] 
+2026-02-25 13:02:19.153 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (504b0651ef3efb444a4b24c88252eb00)] -> id: register-btn] 
+2026-02-25 13:02:19.163 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Option Hawaii is selected 
+2026-02-25 13:02:19.337 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (5cee3cb0bd23ebb8eb2b69439d84caf5)] -> id: register-btn] 
+2026-02-25 13:02:19.399 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:19.421 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:19.502 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-25 13:02:19.502 [TestNG-PoolService-2] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-25 13:02:19.774 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:19.798 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (52eb6547d329afb74b3d0cb84cda973d)] -> id: go-to-flights-search] 
+2026-02-25 13:02:19.804 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:19.962 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-25 13:02:19.962 [TestNG-PoolService-4] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-25 13:02:20.054 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:20.082 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:20.204 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (504b0651ef3efb444a4b24c88252eb00)] -> id: go-to-flights-search] 
+2026-02-25 13:02:20.292 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-25 13:02:20.292 [TestNG-PoolService-1] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-25 13:02:20.553 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (5cee3cb0bd23ebb8eb2b69439d84caf5)] -> id: go-to-flights-search] 
+2026-02-25 13:02:20.858 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:20.878 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:20.954 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels! 
+2026-02-25 13:02:20.955 [TestNG-PoolService-3] INFO  com.debs.tests.bookflights.BookFlightTest - Congratulations michael! Your registration is successful. Thank you for signing up. You can now start searching and booking flights for your next adventure. Happy travels!
+2026-02-25 13:02:21.301 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (98571ef695b1564a615121a11998b2df)] -> id: go-to-flights-search] 
+2026-02-25 13:02:21.499 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:21.510 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:21.535 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:21.549 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:21.560 [TestNG-PoolService-4] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-25 13:02:21.625 [TestNG-PoolService-1] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-25 13:02:21.647 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:21.730 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:21.756 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Option 4 is selected 
+2026-02-25 13:02:21.819 [TestNG-PoolService-2] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-25 13:02:21.980 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-25 13:02:22.063 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Option 1 is selected 
+2026-02-25 13:02:22.220 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-25 13:02:22.318 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:22.364 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:22.401 [TestNG-PoolService-3] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Flight Search Page
+2026-02-25 13:02:22.411 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Option 2 is selected 
+2026-02-25 13:02:22.421 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (504b0651ef3efb444a4b24c88252eb00)] -> id: search-flights] 
+2026-02-25 13:02:22.438 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-25 13:02:22.618 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Option 3 is selected 
+2026-02-25 13:02:22.647 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-25 13:02:22.655 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-25 13:02:22.867 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Option Frankfurt is selected 
+2026-02-25 13:02:22.897 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Option Portland is selected 
+2026-02-25 13:02:22.982 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (5cee3cb0bd23ebb8eb2b69439d84caf5)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-25 13:02:23.057 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (5cee3cb0bd23ebb8eb2b69439d84caf5)] -> id: search-flights] 
+2026-02-25 13:02:23.108 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Option Paris is selected 
+2026-02-25 13:02:23.198 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (52eb6547d329afb74b3d0cb84cda973d)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-25 13:02:23.245 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (52eb6547d329afb74b3d0cb84cda973d)] -> id: search-flights] 
+2026-02-25 13:02:23.294 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (98571ef695b1564a615121a11998b2df)] -> css selector: div.card.mt-3 .form-check-input] 
+2026-02-25 13:02:23.398 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element: [[ChromeDriver: chrome on windows (98571ef695b1564a615121a11998b2df)] -> id: search-flights] 
+2026-02-25 13:02:23.560 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:23.578 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:23.598 [TestNG-PoolService-4] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-25 13:02:23.715 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (504b0651ef3efb444a4b24c88252eb00)] -> name: departure-flight] 
+2026-02-25 13:02:23.829 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (504b0651ef3efb444a4b24c88252eb00)] -> name: arrival-flight] 
+2026-02-25 13:02:23.970 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (504b0651ef3efb444a4b24c88252eb00)] -> id: confirm-flights] 
+2026-02-25 13:02:24.351 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:02:24.363 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:24.391 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:24.413 [TestNG-PoolService-2] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-25 13:02:24.536 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:24.557 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:24.565 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (52eb6547d329afb74b3d0cb84cda973d)] -> name: departure-flight] 
+2026-02-25 13:02:24.583 [TestNG-PoolService-3] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-25 13:02:24.674 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (52eb6547d329afb74b3d0cb84cda973d)] -> name: arrival-flight] 
+2026-02-25 13:02:24.712 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (98571ef695b1564a615121a11998b2df)] -> name: departure-flight] 
+2026-02-25 13:02:24.757 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:24.778 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:24.798 [TestNG-PoolService-1] INFO  com.debs.tests.bookflights.BookFlightTest - Navigated to Select Flights page successfully
+2026-02-25 13:02:24.829 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (52eb6547d329afb74b3d0cb84cda973d)] -> id: confirm-flights] 
+2026-02-25 13:02:24.842 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (98571ef695b1564a615121a11998b2df)] -> name: arrival-flight] 
+2026-02-25 13:02:24.925 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (5cee3cb0bd23ebb8eb2b69439d84caf5)] -> name: departure-flight] 
+2026-02-25 13:02:24.975 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (98571ef695b1564a615121a11998b2df)] -> id: confirm-flights] 
+2026-02-25 13:02:25.051 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (5cee3cb0bd23ebb8eb2b69439d84caf5)] -> name: arrival-flight] 
+2026-02-25 13:02:25.192 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (5cee3cb0bd23ebb8eb2b69439d84caf5)] -> id: confirm-flights] 
+2026-02-25 13:02:26.188 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:26.205 [TestNG-PoolService-4] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:26.228 [TestNG-PoolService-4] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $2338 USD 
+2026-02-25 13:02:26.491 [TestNG-PoolService-4] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:02:26.673 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:26.696 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:26.743 [TestNG-PoolService-3] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $1753 USD 
+2026-02-25 13:02:27.030 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:27.057 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:27.083 [TestNG-PoolService-2] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $1169 USD 
+2026-02-25 13:02:27.373 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:02:27.384 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:02:27.403 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:02:27.428 [TestNG-PoolService-1] INFO  com.debs.tests.bookflights.BookFlightTest - Total Price : $584 USD 
+2026-02-25 13:02:27.773 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:02:27.796 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:16:33.148 [TestNG-PoolService-2] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-25 13:16:36.222 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:16:36.490 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:16:38.167 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:16:38.448 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:16:38.448 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:16:38.504 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:16:38.520 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:16:38.572 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:16:38.572 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:16:38.954 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:16:38.992 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:16:39.027 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:16:39.051 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : vendorapp 
+2026-02-25 13:16:39.173 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : vendorapp 
+2026-02-25 13:16:39.255 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : vendorapp 
+2026-02-25 13:16:39.395 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:16:39.595 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:16:39.611 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (75516130f4290939be2dbf7ef981f61c)] -> id: login] 
+2026-02-25 13:16:39.673 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:16:39.866 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (de1d69000c4d3642be72cd86135739e1)] -> id: login] 
+2026-02-25 13:16:39.930 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (9bc24f4b1be7cd0173e5b907acdf9803)] -> id: login] 
+2026-02-25 13:16:55.586 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:16:55.596 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:16:55.850 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:18:05.516 [TestNG-PoolService-3] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-25 13:18:07.959 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:18:08.949 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:18:10.242 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:18:10.423 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:18:10.571 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:18:10.573 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:18:10.613 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:18:10.620 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:18:10.908 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:18:10.933 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:18:10.973 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:18:11.014 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:18:11.045 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : sam 
+2026-02-25 13:18:11.130 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : mike 
+2026-02-25 13:18:11.164 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:18:11.259 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : john 
+2026-02-25 13:18:11.428 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:18:11.438 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:18:11.522 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (fa5ae3b367469e6e0072ab532a359278)] -> id: login] 
+2026-02-25 13:18:11.662 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (95daf9e2dbc420e44bb3d7c0cdbe2caa)] -> id: login] 
+2026-02-25 13:18:11.774 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (8e6aaf1eadafe11c521f353713cce8ef)] -> id: login] 
+2026-02-25 13:18:13.261 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:18:13.344 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:18:13.367 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:18:13.460 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $40,000 
+2026-02-25 13:18:13.512 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $215,000 
+2026-02-25 13:18:13.559 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 50% 
+2026-02-25 13:18:13.608 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 18 
+2026-02-25 13:18:13.608 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:18:13.714 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : adams 
+2026-02-25 13:18:13.839 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:18:13.866 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:18:13.895 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:18:13.930 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:18:13.951 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:18:13.984 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:18:13.995 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $3,453 
+2026-02-25 13:18:14.029 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:18:14.061 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $34,485 
+2026-02-25 13:18:14.065 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (fa5ae3b367469e6e0072ab532a359278)] -> css selector: img.img-profile] 
+2026-02-25 13:18:14.132 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : -16% 
+2026-02-25 13:18:14.154 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $55,000 
+2026-02-25 13:18:14.194 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : 67 
+2026-02-25 13:18:14.194 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:18:14.266 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $563,300 
+2026-02-25 13:18:14.354 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 2024/01/01 
+2026-02-25 13:18:14.419 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 80% 
+2026-02-25 13:18:14.534 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 45 
+2026-02-25 13:18:14.534 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:18:14.653 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : miami 
+2026-02-25 13:18:14.680 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (fa5ae3b367469e6e0072ab532a359278)] -> link text: Logout] 
+2026-02-25 13:18:15.027 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:18:15.076 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:18:24.952 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:18:25.024 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:18:25.041 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:18:25.051 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:18:25.292 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:20:04.418 [TestNG-PoolService-1] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-25 13:20:06.767 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:20:07.565 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:20:09.006 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:20:09.486 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:20:09.486 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:20:09.578 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:20:09.578 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:20:09.610 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:20:09.610 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:20:09.849 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:20:09.877 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:20:09.902 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:20:10.072 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : john 
+2026-02-25 13:20:10.146 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : mike 
+2026-02-25 13:20:10.244 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : sam 
+2026-02-25 13:20:10.316 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:20:10.530 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (620d3f935f748309e94e5dba3fed396e)] -> id: login] 
+2026-02-25 13:20:10.552 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:20:10.553 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:20:10.832 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7ba3b7415e485518e549ca76565c097d)] -> id: login] 
+2026-02-25 13:20:10.832 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (d0fdb251c4a018d81d358cd5c52a1c61)] -> id: login] 
+2026-02-25 13:20:11.746 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:20:11.830 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:20:11.862 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:20:11.999 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $3,453 
+2026-02-25 13:20:12.087 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $34,485 
+2026-02-25 13:20:12.170 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : -16% 
+2026-02-25 13:20:12.263 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : 67 
+2026-02-25 13:20:12.264 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:20:12.402 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:20:12.448 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:20:12.449 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 2024/01/01 
+2026-02-25 13:20:12.494 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:20:12.494 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:20:12.561 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $55,000 
+2026-02-25 13:20:12.613 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $563,300 
+2026-02-25 13:20:12.659 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (620d3f935f748309e94e5dba3fed396e)] -> css selector: img.img-profile] 
+2026-02-25 13:20:12.700 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 80% 
+2026-02-25 13:20:12.747 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:20:12.799 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:20:12.812 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 45 
+2026-02-25 13:20:12.812 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:20:12.899 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:20:13.014 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $40,000 
+2026-02-25 13:20:13.179 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : miami 
+2026-02-25 13:20:13.266 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (620d3f935f748309e94e5dba3fed396e)] -> link text: Logout] 
+2026-02-25 13:20:13.313 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $215,000 
+2026-02-25 13:20:13.439 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 50% 
+2026-02-25 13:20:13.522 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 18 
+2026-02-25 13:20:13.524 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:20:13.709 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : adams 
+2026-02-25 13:20:13.749 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:20:13.915 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:20:13.941 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (d0fdb251c4a018d81d358cd5c52a1c61)] -> css selector: img.img-profile] 
+2026-02-25 13:20:14.330 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (d0fdb251c4a018d81d358cd5c52a1c61)] -> link text: Logout] 
+2026-02-25 13:20:23.713 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:20:23.859 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:20:23.900 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:20:23.922 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:20:24.549 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:20:24.606 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:20:24.631 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:20:24.654 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:20:24.993 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:20:25.182 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:23:25.185 [TestNG-PoolService-2] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-25 13:23:27.891 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:23:28.440 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:23:29.896 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:23:30.081 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:23:30.082 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:23:30.161 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:23:30.161 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:23:30.216 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:23:30.216 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:23:30.435 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : john 
+2026-02-25 13:23:30.644 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : sam 
+2026-02-25 13:23:30.657 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:23:30.691 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:23:30.723 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:23:30.726 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:23:30.893 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : mike 
+2026-02-25 13:23:30.893 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:23:31.108 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:23:31.119 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (2822feadb6a2a2bd87ad1673e28bb121)] -> id: login] 
+2026-02-25 13:23:31.290 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e65bc12a2f6291f58f72dbbfc36d378a)] -> id: login] 
+2026-02-25 13:23:31.419 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (25cfebd13bb438fb150917388f178305)] -> id: login] 
+2026-02-25 13:23:32.052 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:23:32.099 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:23:32.122 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:23:32.178 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $3,453 
+2026-02-25 13:23:32.225 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $34,485 
+2026-02-25 13:23:32.272 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : -16% 
+2026-02-25 13:23:32.318 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : 67 
+2026-02-25 13:23:32.318 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:23:32.481 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 2024/01/01 
+2026-02-25 13:23:32.518 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:23:32.674 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (2822feadb6a2a2bd87ad1673e28bb121)] -> css selector: img.img-profile] 
+2026-02-25 13:23:33.030 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (2822feadb6a2a2bd87ad1673e28bb121)] -> link text: Logout] 
+2026-02-25 13:23:33.917 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:23:33.941 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:23:33.966 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:23:34.026 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $55,000 
+2026-02-25 13:23:34.079 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $563,300 
+2026-02-25 13:23:34.139 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 80% 
+2026-02-25 13:23:34.185 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 45 
+2026-02-25 13:23:34.187 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:23:34.353 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : miami 
+2026-02-25 13:23:34.541 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:23:34.631 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:23:34.666 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:23:34.751 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $40,000 
+2026-02-25 13:23:34.832 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $215,000 
+2026-02-25 13:23:34.886 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 50% 
+2026-02-25 13:23:34.932 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 18 
+2026-02-25 13:23:34.932 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:23:35.067 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : adams 
+2026-02-25 13:23:35.122 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:23:35.264 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e65bc12a2f6291f58f72dbbfc36d378a)] -> css selector: img.img-profile] 
+2026-02-25 13:23:35.735 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e65bc12a2f6291f58f72dbbfc36d378a)] -> link text: Logout] 
+2026-02-25 13:23:36.177 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:23:43.827 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:23:44.041 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:23:44.184 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:23:44.341 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:23:45.522 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:23:45.962 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:23:46.005 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:23:46.038 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:23:46.177 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:23:46.497 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:24:05.941 [TestNG-PoolService-1] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-25 13:24:08.362 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:24:09.079 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:24:10.286 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:24:10.364 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:24:10.366 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:24:10.522 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:24:10.562 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:24:10.611 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:24:10.611 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:24:10.857 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : sam 
+2026-02-25 13:24:10.858 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : john 
+2026-02-25 13:24:11.102 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:24:11.149 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:24:11.181 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:24:11.324 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:24:11.421 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:24:11.480 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : mike 
+2026-02-25 13:24:11.669 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (9514cedc6529e6810013bd85a4f5b187)] -> id: login] 
+2026-02-25 13:24:11.691 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:24:11.856 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (85a64636c4755e4ecd08fc8f07ef724b)] -> id: login] 
+2026-02-25 13:24:11.976 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (aa091ba1a23e4a9433697ccd27f252bf)] -> id: login] 
+2026-02-25 13:24:12.775 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:24:12.801 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:24:12.824 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:24:12.887 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $3,453 
+2026-02-25 13:24:12.932 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $34,485 
+2026-02-25 13:24:12.979 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : -16% 
+2026-02-25 13:24:13.023 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : 67 
+2026-02-25 13:24:13.024 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:24:13.113 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:24:13.139 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:24:13.170 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:24:13.188 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 2024/01/01 
+2026-02-25 13:24:13.231 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:24:13.250 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $40,000 
+2026-02-25 13:24:13.299 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $215,000 
+2026-02-25 13:24:13.375 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 50% 
+2026-02-25 13:24:13.431 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (9514cedc6529e6810013bd85a4f5b187)] -> css selector: img.img-profile] 
+2026-02-25 13:24:13.457 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 18 
+2026-02-25 13:24:13.458 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:24:13.649 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : adams 
+2026-02-25 13:24:13.722 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:24:13.940 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (9514cedc6529e6810013bd85a4f5b187)] -> link text: Logout] 
+2026-02-25 13:24:14.186 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (85a64636c4755e4ecd08fc8f07ef724b)] -> css selector: img.img-profile] 
+2026-02-25 13:24:14.661 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (85a64636c4755e4ecd08fc8f07ef724b)] -> link text: Logout] 
+2026-02-25 13:24:14.732 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:24:14.754 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:24:14.783 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:24:14.853 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $55,000 
+2026-02-25 13:24:14.913 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $563,300 
+2026-02-25 13:24:15.007 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 80% 
+2026-02-25 13:24:15.071 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 45 
+2026-02-25 13:24:15.071 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:24:15.185 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : miami 
+2026-02-25 13:24:15.594 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:24:24.473 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:24:24.548 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:24:24.595 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:24:24.638 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:24:25.062 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:24:25.115 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:24:25.147 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:24:25.195 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:24:25.835 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:24:25.882 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:25:42.528 [TestNG-PoolService-1] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-25 13:25:44.873 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:25:46.015 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:25:46.677 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:25:46.823 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:25:46.937 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:25:47.143 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:25:47.374 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:25:47.437 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:25:47.462 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:25:47.473 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:25:47.506 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:25:47.524 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : mike 
+2026-02-25 13:25:47.536 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:25:47.684 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : john 
+2026-02-25 13:25:47.769 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:25:47.823 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : sam 
+2026-02-25 13:25:47.840 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:25:47.975 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:25:48.074 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (aa1302c703c65e5753e4015dce122fd1)] -> id: login] 
+2026-02-25 13:25:48.075 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (107a6a560d7988ace98a33dfeecc54c7)] -> id: login] 
+2026-02-25 13:25:48.282 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (059b8dd168d068dbc36eddeb3dd1f1c1)] -> id: login] 
+2026-02-25 13:25:49.202 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:25:49.241 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:25:49.271 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:25:49.332 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $3,453 
+2026-02-25 13:25:49.395 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $34,485 
+2026-02-25 13:25:49.444 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : -16% 
+2026-02-25 13:25:49.491 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : 67 
+2026-02-25 13:25:49.491 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:25:49.649 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 2024/01/01 
+2026-02-25 13:25:49.718 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:25:49.731 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:25:49.753 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:25:49.782 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:25:49.836 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $40,000 
+2026-02-25 13:25:49.882 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (aa1302c703c65e5753e4015dce122fd1)] -> css selector: img.img-profile] 
+2026-02-25 13:25:49.913 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $215,000 
+2026-02-25 13:25:50.038 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 50% 
+2026-02-25 13:25:50.204 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 18 
+2026-02-25 13:25:50.204 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:25:50.337 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (aa1302c703c65e5753e4015dce122fd1)] -> link text: Logout] 
+2026-02-25 13:25:50.404 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : adams 
+2026-02-25 13:25:50.508 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:25:50.748 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:25:50.756 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (059b8dd168d068dbc36eddeb3dd1f1c1)] -> css selector: img.img-profile] 
+2026-02-25 13:25:50.782 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:25:50.807 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:25:50.886 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $55,000 
+2026-02-25 13:25:50.941 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $563,300 
+2026-02-25 13:25:51.015 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 80% 
+2026-02-25 13:25:51.066 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 45 
+2026-02-25 13:25:51.066 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:25:51.176 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (059b8dd168d068dbc36eddeb3dd1f1c1)] -> link text: Logout] 
+2026-02-25 13:25:51.220 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : miami 
+2026-02-25 13:25:51.613 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:26:00.687 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:26:00.765 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:26:00.793 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:26:00.818 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:26:01.411 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:26:01.526 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:26:01.564 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:26:01.592 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:26:01.611 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:26:02.435 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:30:19.765 [TestNG-PoolService-2] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-25 13:30:22.539 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:30:22.694 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:30:24.340 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:30:24.412 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:30:24.444 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:30:24.508 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:30:24.715 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:30:24.748 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : mike 
+2026-02-25 13:30:24.799 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:30:24.834 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:30:24.993 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:30:25.105 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : sam 
+2026-02-25 13:30:25.207 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:30:25.265 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:30:25.336 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:30:25.498 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:30:25.712 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : john 
+2026-02-25 13:30:25.989 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:30:26.526 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e88f16c9d14a6659cb5de9693e50362a)] -> id: login] 
+2026-02-25 13:30:26.606 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (ef4c3e36d9ed33adf4b09235319fd9ce)] -> id: login] 
+2026-02-25 13:30:28.523 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:30:28.558 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:30:28.596 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:30:28.690 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $40,000 
+2026-02-25 13:30:28.712 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:30:28.737 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:30:28.763 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:30:28.767 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $215,000 
+2026-02-25 13:30:28.824 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $3,453 
+2026-02-25 13:30:28.830 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 50% 
+2026-02-25 13:30:28.880 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $34,485 
+2026-02-25 13:30:28.894 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 18 
+2026-02-25 13:30:28.894 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:30:28.940 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : -16% 
+2026-02-25 13:30:28.986 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : 67 
+2026-02-25 13:30:28.986 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:30:29.031 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : adams 
+2026-02-25 13:30:29.119 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:30:29.175 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 2024/01/01 
+2026-02-25 13:30:29.257 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:30:29.418 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e88f16c9d14a6659cb5de9693e50362a)] -> css selector: img.img-profile] 
+2026-02-25 13:30:29.475 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (ef4c3e36d9ed33adf4b09235319fd9ce)] -> css selector: img.img-profile] 
+2026-02-25 13:30:29.990 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (ef4c3e36d9ed33adf4b09235319fd9ce)] -> link text: Logout] 
+2026-02-25 13:30:30.087 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (e88f16c9d14a6659cb5de9693e50362a)] -> link text: Logout] 
+2026-02-25 13:30:37.516 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.id: login' 
+2026-02-25 13:30:38.005 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:30:38.169 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:30:38.354 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:30:38.585 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $55,000 
+2026-02-25 13:30:38.806 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $563,300 
+2026-02-25 13:30:38.988 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 80% 
+2026-02-25 13:30:39.386 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 45 
+2026-02-25 13:30:39.386 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:30:40.347 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : miami 
+2026-02-25 13:30:40.577 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:30:40.595 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:30:40.852 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:30:40.892 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:30:40.998 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:30:41.038 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:30:41.096 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:30:41.108 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:30:41.987 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:30:42.030 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:30:42.032 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:35:25.943 [TestNG-PoolService-1] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-25 13:35:28.704 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:35:28.926 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:35:30.456 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:35:30.690 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:35:30.690 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:35:30.791 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:35:30.795 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:35:30.845 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:35:30.845 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:35:31.170 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:35:31.225 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:35:31.254 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:35:31.444 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : mike 
+2026-02-25 13:35:31.500 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : john 
+2026-02-25 13:35:31.592 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : sam 
+2026-02-25 13:35:31.647 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:35:31.855 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (92cb83f7716e7109af44c083ba393f32)] -> id: login] 
+2026-02-25 13:35:31.939 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:35:31.982 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:35:32.181 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (829a47663ba9cea8d661815035436060)] -> id: login] 
+2026-02-25 13:35:32.211 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (9c39f47d89404a855d52bc9416c4370d)] -> id: login] 
+2026-02-25 13:35:33.401 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:35:33.421 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:35:33.441 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:35:33.490 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $3,453 
+2026-02-25 13:35:33.528 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $34,485 
+2026-02-25 13:35:33.583 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : -16% 
+2026-02-25 13:35:33.636 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : 67 
+2026-02-25 13:35:33.636 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:35:33.928 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 2024/01/01 
+2026-02-25 13:35:34.022 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:35:34.223 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (92cb83f7716e7109af44c083ba393f32)] -> css selector: img.img-profile] 
+2026-02-25 13:35:34.310 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:35:34.337 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:35:34.357 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:35:34.433 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $55,000 
+2026-02-25 13:35:34.491 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $563,300 
+2026-02-25 13:35:34.544 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 80% 
+2026-02-25 13:35:34.597 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 45 
+2026-02-25 13:35:34.597 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:35:34.685 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:35:34.718 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:35:34.772 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : miami 
+2026-02-25 13:35:34.811 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:35:34.823 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:35:34.906 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $40,000 
+2026-02-25 13:35:34.968 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $215,000 
+2026-02-25 13:35:35.013 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (829a47663ba9cea8d661815035436060)] -> css selector: img.img-profile] 
+2026-02-25 13:35:35.027 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 50% 
+2026-02-25 13:35:35.075 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 18 
+2026-02-25 13:35:35.075 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:35:35.185 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : adams 
+2026-02-25 13:35:35.235 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:35:35.373 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (9c39f47d89404a855d52bc9416c4370d)] -> css selector: img.img-profile] 
+2026-02-25 13:35:35.791 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (9c39f47d89404a855d52bc9416c4370d)] -> link text: Logout] 
+2026-02-25 13:35:46.203 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:35:46.252 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:35:46.279 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:35:46.316 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:35:49.695 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:36:05.140 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:36:06.016 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:38:56.621 [TestNG-PoolService-3] INFO  com.debs.utils.ConfigReader - Configuration file loaded successfully
+2026-02-25 13:38:58.983 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:38:59.977 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:39:00.192 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:39:00.450 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:39:00.781 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:39:01.144 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver initialized successfully
+2026-02-25 13:39:01.358 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : sam 
+2026-02-25 13:39:01.429 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:39:01.513 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:39:01.548 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:39:01.573 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:39:01.835 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:39:01.869 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:39:01.919 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : john 
+2026-02-25 13:39:01.929 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User is at Sign-in page
+2026-02-25 13:39:02.060 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7915f29f6176447201b15a97edaaa744)] -> id: login] 
+2026-02-25 13:39:02.131 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : mike 
+2026-02-25 13:39:02.166 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:39:02.287 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Password entered : XXXX 
+2026-02-25 13:39:02.506 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (8084401e57df07d90e7ec1c6e5c5388c)] -> id: login] 
+2026-02-25 13:39:02.563 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0e97bee1f69e9917076116516fddde0a)] -> id: login] 
+2026-02-25 13:39:06.627 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:39:06.670 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:39:06.694 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:39:06.752 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:39:06.783 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:39:06.803 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $40,000 
+2026-02-25 13:39:06.809 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:39:06.860 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : $215,000 
+2026-02-25 13:39:06.869 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $55,000 
+2026-02-25 13:39:06.918 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : $563,300 
+2026-02-25 13:39:06.923 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 50% 
+2026-02-25 13:39:06.986 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 80% 
+2026-02-25 13:39:06.991 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text captured : 18 
+2026-02-25 13:39:06.991 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:39:07.006 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:39:07.034 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:39:07.039 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text captured : 45 
+2026-02-25 13:39:07.039 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:39:07.067 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User signed into the application successfully
+2026-02-25 13:39:07.134 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $3,453 
+2026-02-25 13:39:07.210 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Text entered : adams 
+2026-02-25 13:39:07.233 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Text entered : miami 
+2026-02-25 13:39:07.265 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:39:07.265 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:39:07.273 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : $34,485 
+2026-02-25 13:39:07.343 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : -16% 
+2026-02-25 13:39:07.395 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text captured : 67 
+2026-02-25 13:39:07.397 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Finance metrics are validated successfully
+2026-02-25 13:39:07.432 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (8084401e57df07d90e7ec1c6e5c5388c)] -> css selector: img.img-profile] 
+2026-02-25 13:39:07.485 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7915f29f6176447201b15a97edaaa744)] -> css selector: img.img-profile] 
+2026-02-25 13:39:07.641 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Text entered : 2024/01/01 
+2026-02-25 13:39:07.722 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - Order history search count is validated successfully
+2026-02-25 13:39:07.989 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (8084401e57df07d90e7ec1c6e5c5388c)] -> link text: Logout] 
+2026-02-25 13:39:08.017 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0e97bee1f69e9917076116516fddde0a)] -> css selector: img.img-profile] 
+2026-02-25 13:39:08.048 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (7915f29f6176447201b15a97edaaa744)] -> link text: Logout] 
+2026-02-25 13:39:08.643 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : [[ChromeDriver: chrome on windows (0e97bee1f69e9917076116516fddde0a)] -> link text: Logout] 
+2026-02-25 13:39:18.490 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:39:18.507 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:39:18.577 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:39:18.610 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:39:18.637 [TestNG-PoolService-3] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:39:18.732 [TestNG-PoolService-3] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:39:18.743 [TestNG-PoolService-2] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:39:18.967 [TestNG-PoolService-2] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:39:18.991 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Clicked on element : Proxy element for: DefaultElementLocator 'By.cssSelector: #logoutModal a' 
+2026-02-25 13:39:19.108 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is displayed : true
+2026-02-25 13:39:19.142 [TestNG-PoolService-1] INFO  com.debs.utils.BasePage - Element is enabled : true
+2026-02-25 13:39:19.166 [TestNG-PoolService-1] INFO  com.debs.tests.vendorapp.VendorAppTest - User has logged out successfully
+2026-02-25 13:39:20.062 [TestNG-PoolService-3] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:39:20.122 [TestNG-PoolService-2] INFO  com.debs.utils.DriverFactory - Driver quit successfully
+2026-02-25 13:39:20.139 [TestNG-PoolService-1] INFO  com.debs.utils.DriverFactory - Driver quit successfully

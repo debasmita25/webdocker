@@ -2,9 +2,9 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite" thread-count="3" parallel="methods">
   <test  name="Book flights Test">
-  <parameter name="project" value="bookflights"></parameter>
+  <parameter name="project" value="vendorapp"></parameter>
     <classes>
-      <class name="com.debs.tests.bookflights.BookFlightTest"/>
+      <class name="com.debs.tests.vendorapp.VendorAppTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

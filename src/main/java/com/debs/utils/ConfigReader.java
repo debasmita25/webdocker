@@ -45,10 +45,12 @@ public class ConfigReader {
 		return value;
 	}
 	
-	public static String getUrl()
+	public static String getUrl(String project)
 	{
 		String env=System.getProperty("environment")!=null? System.getProperty("environment") :"qa";
-		return prop.getProperty(env+".url");
+		String projectName=System.getProperty("project")!=null? System.getProperty("project") :project;
+		System.out.println(projectName);
+		return prop.getProperty(projectName+"."+env+".url");
 	}
 
 }

@@ -1,5 +1,8 @@
 package com.debs.utils;
 
+import java.util.HashMap;
+import java.util.Map;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -54,6 +57,35 @@ public class DriverFactory {
 		case "chrome":
 		default:
 			ChromeOptions chromeOptions = new ChromeOptions();
+			// Disable password manager
+			Map<String, Object> prefs = new HashMap<>();
+
+			// 🔐 Disable password manager
+			prefs.put("credentials_enable_service", false);
+			prefs.put("profile.password_manager_enabled", false);
+
+			// 🚫 Disable breach detection
+			prefs.put("profile.password_manager_leak_detection", false);
+
+			// 🚫 Disable Safe Browsing password protection
+			prefs.put("safebrowsing.enabled", false);
+			prefs.put("safebrowsing.disable_download_protection", true);
+			chromeOptions.addArguments("--disable-notifications");
+			chromeOptions.addArguments("--disable-infobars");
+			chromeOptions.addArguments("--disable-save-password-bubble");
+			chromeOptions.addArguments("--disable-extensions");
+			// Disable Chrome notifications
+			prefs.put("profile.default_content_setting_values.notifications", 2);
+
+			chromeOptions.setExperimentalOption("prefs", prefs);
+
+			// Chrome security services off
+			chromeOptions.addArguments("--disable-features=PasswordLeakDetection");
+			chromeOptions.addArguments("--disable-features=AutofillServerCommunication");
+			chromeOptions.addArguments("--disable-features=SafeBrowsingEnhancedProtection");
+			chromeOptions.addArguments("--disable-features=PasswordManagerOnboarding");
+
+			// UI suppressions
 			chromeOptions.addArguments("--disable-notifications");
 			chromeOptions.addArguments("--disable-infobars");
 			chromeOptions.addArguments("--disable-save-password-bubble");
@@ -64,16 +96,14 @@ public class DriverFactory {
 			driver = new ChromeDriver(chromeOptions);
 			break;
 		}
- 
-		logger.info("Driver initialized successfully"); 
+
+		logger.info("Driver initialized successfully");
 		return driver;
 
 	}
 
-	public static void quitDriver()
-	{
-		if(driver.get() !=null)
-		{
+	public static void quitDriver() {
+		if (driver.get() != null) {
 			driver.get().quit();
 			driver.remove();
 			logger.info("Driver quit successfully");
