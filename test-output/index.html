@@ -25,7 +25,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -39,7 +39,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-Suite" class="navigator-link">
-              <span class="suite-name border-passed">Suite</span>
+              <span class="suite-name border-failed">Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -92,7 +92,40 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">3 methods,   3 passed</span>
+                    <span class="method-stats">5 methods, 1 failed,  2 skipped,  2 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods failed suite-Suite"> (hide)</a> <!-- hide-methods failed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Suite">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="com.debs.tests.vendorapp.VendorAppTest" class="method navigator-link" hash-for-method="vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)">vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title skipped">Retried methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods skipped suite-Suite"> (hide)</a> <!-- hide-methods skipped suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods skipped suite-Suite"> (show)</a> <!-- show-methods skipped suite-Suite -->
+                    </span>
+                    <div class="method-list-content skipped suite-Suite">
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="com.debs.tests.vendorapp.VendorAppTest" class="method navigator-link" hash-for-method="vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)">vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="com.debs.tests.vendorapp.VendorAppTest" class="method navigator-link" hash-for-method="vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)">vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content skipped suite-Suite -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -103,17 +136,12 @@
                     <div class="method-list-content passed suite-Suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.debs.tests.vendorapp.VendorAppTest" class="method navigator-link" hash-for-method="vendorData(VendorPortalTestData[username=sam, password=sam, monthlyEarning=$40,000, annualEarning=$215,000, pro...)">vendorData(VendorPortalTestData[username=sam, password=sam, monthlyEarning=$40,000, annualEarning=$215,000, pro...)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.debs.tests.vendorapp.VendorAppTest" class="method navigator-link" hash-for-method="vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)">vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="com.debs.tests.vendorapp.VendorAppTest" class="method navigator-link" hash-for-method="vendorData(VendorPortalTestData[username=john, password=john, monthlyEarning=$3,453, annualEarning=$34,485, pro...)">vendorData(VendorPortalTestData[username=john, password=john, monthlyEarning=$3,453, annualEarning=$34,485, pro...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="com.debs.tests.vendorapp.VendorAppTest" class="method navigator-link" hash-for-method="vendorData(VendorPortalTestData[username=sam, password=sam, monthlyEarning=$40,000, annualEarning=$215,000, pro...)">vendorData(VendorPortalTestData[username=sam, password=sam, monthlyEarning=$40,000, annualEarning=$215,000, pro...)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite -->
@@ -128,6 +156,67 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Suite" class="panel Suite">
+          <div class="suite-Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.debs.tests.vendorapp.VendorAppTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)">
+                  </a> <!-- vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...) -->
+                  <span class="method-name">vendorData</span>
+                  <span class="parameters">(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, profitMargin=80%, availableInventory=45, searchKeyword=miami, searchResultsCount=99])</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [99] but found [10]
+	at com.debs.tests.vendorapp.VendorAppTest.vendorData(VendorAppTest.java:47)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 16 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-failed -->
+          <div class="suite-Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.debs.tests.vendorapp.VendorAppTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)">
+                  </a> <!-- vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...) -->
+                  <span class="method-name">vendorData</span>
+                  <span class="parameters">(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, profitMargin=80%, availableInventory=45, searchKeyword=miami, searchResultsCount=99])</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [99] but found [10]
+	at com.debs.tests.vendorapp.VendorAppTest.vendorData(VendorAppTest.java:47)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 16 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)">
+                  </a> <!-- vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...) -->
+                  <span class="method-name">vendorData</span>
+                  <span class="parameters">(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, profitMargin=80%, availableInventory=45, searchKeyword=miami, searchResultsCount=99])</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [99] but found [10]
+	at com.debs.tests.vendorapp.VendorAppTest.vendorData(VendorAppTest.java:47)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 16 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-skipped -->
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -136,26 +225,18 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="vendorData(VendorPortalTestData[username=sam, password=sam, monthlyEarning=$40,000, annualEarning=$215,000, pro...)">
-                  </a> <!-- vendorData(VendorPortalTestData[username=sam, password=sam, monthlyEarning=$40,000, annualEarning=$215,000, pro...) -->
-                  <span class="method-name">vendorData</span>
-                  <span class="parameters">(VendorPortalTestData[username=sam, password=sam, monthlyEarning=$40,000, annualEarning=$215,000, profitMargin=50%, availableInventory=18, searchKeyword=adams, searchResultsCount=8])</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)">
-                  </a> <!-- vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...) -->
-                  <span class="method-name">vendorData</span>
-                  <span class="parameters">(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, profitMargin=80%, availableInventory=45, searchKeyword=miami, searchResultsCount=10])</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
                   <a name="vendorData(VendorPortalTestData[username=john, password=john, monthlyEarning=$3,453, annualEarning=$34,485, pro...)">
                   </a> <!-- vendorData(VendorPortalTestData[username=john, password=john, monthlyEarning=$3,453, annualEarning=$34,485, pro...) -->
                   <span class="method-name">vendorData</span>
                   <span class="parameters">(VendorPortalTestData[username=john, password=john, monthlyEarning=$3,453, annualEarning=$34,485, profitMargin=-16%, availableInventory=67, searchKeyword=2024/01/01, searchResultsCount=0])</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="vendorData(VendorPortalTestData[username=sam, password=sam, monthlyEarning=$40,000, annualEarning=$215,000, pro...)">
+                  </a> <!-- vendorData(VendorPortalTestData[username=sam, password=sam, monthlyEarning=$40,000, annualEarning=$215,000, pro...) -->
+                  <span class="method-name">vendorData</span>
+                  <span class="parameters">(VendorPortalTestData[username=sam, password=sam, monthlyEarning=$40,000, annualEarning=$215,000, profitMargin=50%, availableInventory=18, searchKeyword=adams, searchResultsCount=8])</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -170,6 +251,9 @@
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite thread-count=&quot;3&quot; parallel=&quot;methods&quot; name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.debs.listeners.TestListener&quot;/&gt;
+  &lt;/listeners&gt;
   &lt;test thread-count=&quot;3&quot; parallel=&quot;methods&quot; name=&quot;Book flights Test&quot;&gt;
     &lt;parameter name=&quot;project&quot; value=&quot;vendorapp&quot;/&gt;
     &lt;classes&gt;
@@ -213,24 +297,32 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(3);
+data.addRows(5);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'vendorData')
 data.setCell(0, 2, 'com.debs.tests.vendorapp.VendorAppTest')
-data.setCell(0, 3, 22584);
+data.setCell(0, 3, 51348);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'vendorData')
 data.setCell(1, 2, 'com.debs.tests.vendorapp.VendorAppTest')
-data.setCell(1, 3, 22385);
+data.setCell(1, 3, 38447);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'vendorData')
 data.setCell(2, 2, 'com.debs.tests.vendorapp.VendorAppTest')
-data.setCell(2, 3, 22150);
+data.setCell(2, 3, 24688);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'vendorData')
+data.setCell(3, 2, 'com.debs.tests.vendorapp.VendorAppTest')
+data.setCell(3, 3, 9285);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'vendorData')
+data.setCell(4, 2, 'com.debs.tests.vendorapp.VendorAppTest')
+data.setCell(4, 3, 8575);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <span class="suite-total-time">Total running time: 2 minutes</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -257,33 +349,55 @@ return data;
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
               <div class="chronological-class-name">com.debs.tests.vendorapp.VendorAppTest</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">setUpProperties</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
               <div class="configuration-test before">
                 <span class="method-name">setPageObjects(vendorapp)</span>
-                <span class="method-start">0 ms</span>
+                <span class="method-start">297 ms</span>
               </div> <!-- configuration-test before -->
               <div class="test-method">
-                <span class="method-name">vendorData(VendorPortalTestData[username=sam, password=sam, monthlyEarning=$40,000, annualEarning=$215,000, pro...)</span>
-                <span class="method-start">255 ms</span>
+                <span class="method-name">vendorData(VendorPortalTestData[username=john, password=john, monthlyEarning=$3,453, annualEarning=$34,485, pro...)</span>
+                <span class="method-start">497 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
-                <span class="method-name">vendorData(VendorPortalTestData[username=john, password=john, monthlyEarning=$3,453, annualEarning=$34,485, pro...)</span>
-                <span class="method-start">255 ms</span>
+                <span class="method-name">vendorData(VendorPortalTestData[username=sam, password=sam, monthlyEarning=$40,000, annualEarning=$215,000, pro...)</span>
+                <span class="method-start">499 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)</span>
-                <span class="method-start">257 ms</span>
+                <span class="method-start">499 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">22409 ms</span>
+                <span class="method-start">25220 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)</span>
+                <span class="method-start">27180 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">35760 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">vendorData(VendorPortalTestData[username=mike, password=mike, monthlyEarning=$55,000, annualEarning=$563,300, p...)</span>
+                <span class="method-start">36864 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">38957 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">22646 ms</span>
+                <span class="method-start">46742 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">22844 ms</span>
+                <span class="method-start">51847 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

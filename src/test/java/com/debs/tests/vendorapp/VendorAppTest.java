@@ -11,6 +11,7 @@ import com.debs.dataproviders.DataProviders;
 import com.debs.pages.vendorapp.DashboardPage;
 import com.debs.pages.vendorapp.LoginPage;
 import com.debs.records.vendorapp.VendorPortalTestData;
+import com.debs.utils.RetryAnalyzer;
 
 public class VendorAppTest extends BaseTest {
 
@@ -23,7 +24,7 @@ public class VendorAppTest extends BaseTest {
 		this.projectName = project;
 	}
 
-	@Test(dataProvider = "jsonData", dataProviderClass = DataProviders.class)
+	@Test(dataProvider = "jsonData", dataProviderClass = DataProviders.class,retryAnalyzer = RetryAnalyzer.class)
 	public void vendorData(VendorPortalTestData data) {
 
 		LoginPage lp = new LoginPage();

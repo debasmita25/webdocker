@@ -8,6 +8,7 @@
 		<selenium.java.version>4.33.0</selenium.java.version>
 		<!-- Used for logging test execution.-->
 		<log4j.version>2.23.1</log4j.version>
+		<extentreports.version>5.1.1</extentreports.version>
 		<!-- excel reading-->
 		<poi.version>5.2.5</poi.version>
 		<!-- Automatically downloads browser drivers.-->
@@ -37,6 +38,12 @@
 		<package.directory>${project.build.directory}/docker-resources</package.directory>
 	</properties>
 	<dependencies>
+		<!-- ExtentReports -->
+		<dependency>
+			<groupId>com.aventstack</groupId>
+			<artifactId>extentreports</artifactId>
+			<version>${extentreports.version}</version>
+		</dependency>
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
@@ -67,21 +74,21 @@
 			<groupId>io.github.bonigarcia</groupId>
 			<artifactId>webdrivermanager</artifactId>
 			<version>${webdriver.manager.version}</version>
-			<scope>test</scope>
+			<!--<scope>test</scope>-->
 		</dependency>
 		<!-- To deserialize json into Java object or vice versa -->
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
 			<version>${jackson.version}</version>
-			<scope>test</scope>
+			<!--<scope>test</scope>-->
 		</dependency>
 		<!-- Test framework -->
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>${testng.version}</version>
-			<scope>test</scope>
+			<!--<scope>test</scope>-->
 		</dependency>
 	</dependencies>
 	<build>
@@ -103,12 +110,13 @@
 				<version>${maven.surefire.version}</version>
 				<configuration>
 					<systemPropertyVariables>
-						<browser>chrome</browser>
+						<browser>firefox</browser>
+						<selenium.grid.enabled>true</selenium.grid.enabled>
 					</systemPropertyVariables>
 					<suiteXmlFiles>
 						<file>test-suite.xml</file>
 					</suiteXmlFiles>
-					<threadCount>1</threadCount>
+					<threadCount>3</threadCount>
 					<reportsDirectory>target/test-output</reportsDirectory>
 				</configuration>
 			</plugin>

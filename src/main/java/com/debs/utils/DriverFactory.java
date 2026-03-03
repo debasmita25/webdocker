@@ -1,5 +1,8 @@
 package com.debs.utils;
 
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.time.Duration;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -12,6 +15,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
+import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class DriverFactory {
 
@@ -29,9 +33,77 @@ public class DriverFactory {
 
 	private static WebDriver createDriver() {
 		WebDriver driver = null;
-		String browser = ConfigReader.getProperty("browser").toLowerCase();
-		driver = createLocalDriver(browser);
+		String browser = ConfigReader.getProperty(Constants.BROWSER).toLowerCase();
+		boolean isGrid = Boolean.parseBoolean(ConfigReader.getProperty(Constants.GRID_ENABLED));
+		boolean isRemote = Boolean.parseBoolean(ConfigReader.getProperty(Constants.REMOTE_ENABLED));
+		logger.info("Creating driver for browser: " + browser);
+		logger.info("Remote execution: " + isRemote);
+		logger.info("Docker execution: " + isGrid);
+		
+		if (isGrid || isRemote)
+			try {
+				driver = createRemoteDriver(browser);
+			} catch (MalformedURLException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		else
+			driver = createLocalDriver(browser);
+		
+	
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(Integer.parseInt(ConfigReader.getProperty(Constants.IMPLICIT_WAIT))));
+		driver.manage().timeouts().pageLoadTimeout(
+				Duration.ofSeconds(Integer.parseInt(ConfigReader.getProperty(Constants.PAGE_LOAD_TIMEOUT))));
+
+		logger.info("Driver created successfully");
+
 		return driver;
+
+	}
+
+	private static WebDriver createRemoteDriver(String browser) throws MalformedURLException {
+		
+		WebDriver webDriver;
+		
+		String urlFormat = ConfigReader.getProperty(Constants.GRID_URL_FORMAT);
+        String hubHost = ConfigReader.getProperty(Constants.GRID_HUB_HOST);
+        String url = String.format(urlFormat, hubHost);
+        logger.info("grid url: {}", url);
+
+		switch (browser) {
+		case "firefox":
+			FirefoxOptions firefoxOptions = new FirefoxOptions();
+			if (Boolean.parseBoolean(ConfigReader.getProperty(Constants.HEADLESS_ENABLED))) {
+				firefoxOptions.addArguments("--headless");
+			}
+			webDriver = new RemoteWebDriver(new URL(url), firefoxOptions);
+			break;
+
+		case "edge":
+			EdgeOptions edgeOptions = new EdgeOptions();
+			if (Boolean.parseBoolean(ConfigReader.getProperty(Constants.HEADLESS_ENABLED))) {
+				edgeOptions.addArguments("--headless");
+			}
+			webDriver = new RemoteWebDriver(new URL(url), edgeOptions);
+			break;
+
+		case "chrome":
+		default:
+			ChromeOptions chromeOptions = new ChromeOptions();
+			if (Boolean.parseBoolean(ConfigReader.getProperty(Constants.HEADLESS_ENABLED))) {
+				chromeOptions.addArguments("--headless");
+			}
+			//chromeOptions.addArguments("--headless=new");
+			chromeOptions.addArguments("--no-sandbox");
+			chromeOptions.addArguments("--disable-dev-shm-usage");
+			chromeOptions.addArguments("--disable-gpu");
+
+			webDriver = new RemoteWebDriver(new URL(url), chromeOptions);
+			break;
+		}
+
+		return webDriver;
 
 	}
 
@@ -40,7 +112,7 @@ public class DriverFactory {
 		switch (browser) {
 		case "firefox":
 			FirefoxOptions firefoxOptions = new FirefoxOptions();
-			if (Boolean.parseBoolean(ConfigReader.getProperty("headless"))) {
+			if (Boolean.parseBoolean(ConfigReader.getProperty(Constants.HEADLESS_ENABLED))) {
 				firefoxOptions.addArguments("--headless");
 			}
 			driver = new FirefoxDriver(firefoxOptions);
@@ -48,7 +120,7 @@ public class DriverFactory {
 
 		case "edge":
 			EdgeOptions edgeOptions = new EdgeOptions();
-			if (Boolean.parseBoolean(ConfigReader.getProperty("headless"))) {
+			if (Boolean.parseBoolean(ConfigReader.getProperty(Constants.HEADLESS_ENABLED))) {
 				edgeOptions.addArguments("--headless");
 			}
 			driver = new EdgeDriver(edgeOptions);
@@ -90,7 +162,7 @@ public class DriverFactory {
 			chromeOptions.addArguments("--disable-infobars");
 			chromeOptions.addArguments("--disable-save-password-bubble");
 			chromeOptions.addArguments("--disable-extensions");
-			if (Boolean.parseBoolean(ConfigReader.getProperty("headless"))) {
+			if (Boolean.parseBoolean(ConfigReader.getProperty(Constants.HEADLESS_ENABLED))) {
 				chromeOptions.addArguments("--headless");
 			}
 			driver = new ChromeDriver(chromeOptions);
